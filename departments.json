@@ -5744,5 +5744,211 @@
       "home_district": "Dhaka"
     }
   ]
+},
+  {
+  "id": "library-office",
+  "name": "Library Office",
+  "employees": [
+    {
+      "id": "library-001",
+      "name": "সৈয়দ আফজাল হোসেন",
+      "designation": "গ্রন্থাগারিক (অতিরিক্ত দায়িত্ব)",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801313-052365, +8801680-36263",
+      "email": "syedafzal.nu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-002",
+      "name": "মন্নুজান বেগম",
+      "designation": "উপ-রেজিস্ট্রার",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711-394634",
+      "email": "monnujan.begum@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-003",
+      "name": "মো: জহুরুল হক",
+      "designation": "উপ-রেজিস্ট্রার",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712-168605",
+      "email": "zhaquenulib@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-004",
+      "name": "প্রেমানন্দ শীল",
+      "designation": "উপ-রেজিস্ট্রার",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712-511253",
+      "email": "pramananda73@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-005",
+      "name": "অমিত কুমার দাম",
+      "designation": "উপ-রেজিস্ট্রার",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801710-464881",
+      "email": "damamitkumar@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-006",
+      "name": "মো: আবদুল খালেক",
+      "designation": "উপ-রেজিস্ট্রার",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711-969522",
+      "email": "akhaleq@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-007",
+      "name": "মুহা: সাইফুল ইসলাম",
+      "designation": "উপ-রেজিস্ট্রার",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801819-402284",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-008",
+      "name": "মো: হারুন অর রশিদ",
+      "designation": "উপ-রেজিস্ট্রার",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712-683804",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-009",
+      "name": "মন্জু সরকার",
+      "designation": "উপ-রেজিস্ট্রার",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801719-181240",
+      "email": "monjusarker@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-010",
+      "name": "মোছা: জেসমিন আরা খানম",
+      "designation": "সহকারী রেজিস্ট্রার",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801700-995250",
+      "email": "jesmin.khanom@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-011",
+      "name": "মুহাম্মদ আলী",
+      "designation": "সহকারী রেজিস্ট্রার",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801701-346370",
+      "email": "mohammadalinew77@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-012",
+      "name": "মো: সুজাউদ্দৌলা",
+      "designation": "সহকারী রেজিস্ট্রার",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801818-731473",
+      "email": "sujauddoulanu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-013",
+      "name": "মোল্লা মো: শফিকুল ইসলাম",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801718-530854",
+      "email": "shafiqnu22@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-014",
+      "name": "আসমা আকতার",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801716-161770",
+      "email": "asma.akhther2nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-015",
+      "name": "মো: আবদুল্লাহ আল মামুন",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801727-936601",
+      "email": "m.abdullah.nu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-016",
+      "name": "মাহমুদা বেগম",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801770-551372",
+      "email": "mahmoda.cse@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-017",
+      "name": "মো. শামীম মিয়া",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801717-272072",
+      "email": "shamimnul459@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-018",
+      "name": "মানিক চন্দ্র রায়",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801723-889907",
+      "email": "manikray0482@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-019",
+      "name": "মোছা: হাসিনা পারভীন",
+      "designation": "বুকসর্টার",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801744-699346",
+      "email": "sshewly55@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-020",
+      "name": "মো: আজিজুল ইসলাম",
+      "designation": "বুকসর্টার",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801673-769398",
+      "email": "hassanramin1990@gmail.com",
+      "home_district": "Dhaka"
+    }
+  ]
 }
 ]
