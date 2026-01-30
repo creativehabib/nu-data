@@ -26,29 +26,1319 @@
     ]
   },
   {
-    "id": "exam-controller",
-    "name": "Exam Controller",
-    "employees": [
-      {
-        "id": "exam-001",
-        "name": "Dr. Fatema Ahmed",
-        "designation": "Controller of Examinations",
-        "department_name": "Exam Controller",
-        "blood_group": "O+",
-        "phone_number": "+8801711000003",
-        "email": "exam.controller@nu.edu.bd",
-        "home_district": "Rajshahi"
-      },
-      {
-        "id": "exam-002",
-        "name": "Mr. Nazmul Hasan",
-        "designation": "Deputy Controller",
-        "department_name": "Exam Controller",
-        "blood_group": "AB+",
-        "phone_number": "+8801711000004",
-        "email": "deputy.exam@nu.edu.bd",
-        "home_district": "Khulna"
-      }
+  "id": "exam-controller-office",
+  "name": "Department of Examinations",
+  "employees": [
+    {
+      "id": "emp-001",
+      "name": "মোঃ এনামুল করিম",
+      "designation": "পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "পরীক্ষা নিয়ন্ত্রণ দপ্তর",
+      "blood_group": "",
+      "phone_number": "০২-৯৯৬৬৯১৫১৭, ০১৭১৩-০৪৪৪৫৫",
+      "email": "controller@nu.ac.bd",
+      "home_district": ""
+    },
+    {
+      "id": "emp-002",
+      "name": "মোঃ ফরিদ হোসেন খান",
+      "designation": "অতিরিক্ত পরীক্ষা নিয়ন্ত্রক(ভারপ্রাপ্ত)",
+      "department_name": "পরীক্ষা নিয়ন্ত্রণ দপ্তর",
+      "blood_group": "",
+      "phone_number": "০১৭৩০-৭৯৫৮৯০",
+      "email": "faridhkhan491@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-003",
+      "name": "নার্জিস বিনতে ইসলাম",
+      "designation": "সহকারী প্রোগ্রামার",
+      "department_name": "পরীক্ষা নিয়ন্ত্রণ দপ্তর",
+      "blood_group": "",
+      "phone_number": "০১৯১২-২৯১৭০৬",
+      "email": "narjis.islam@nu.ac.bd",
+      "home_district": ""
+    },
+    {
+      "id": "emp-004",
+      "name": "মুঃ জাহাঙ্গীর কবীর",
+      "designation": "সেকশন অফিসার",
+      "department_name": "পরীক্ষা নিয়ন্ত্রণ দপ্তর",
+      "blood_group": "",
+      "phone_number": "০১৭১১-৫৪৩৮৩৮",
+      "email": "zahaggir.kobir@nu.ac.bd",
+      "home_district": ""
+    },
+    {
+      "id": "emp-005",
+      "name": "মোঃ রুবেল খন্দকার",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "পরীক্ষা নিয়ন্ত্রণ দপ্তর",
+      "blood_group": "",
+      "phone_number": "০১৭৩৬-৭৭৩৫৬৫",
+      "email": "rubel.khondoker@nu.ac.bd",
+      "home_district": ""
+    },
+    {
+      "id": "emp-006",
+      "name": "মোহাঃ অহেদুজ্জামান",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "পরীক্ষা নিয়ন্ত্রণ দপ্তর",
+      "blood_group": "",
+      "phone_number": "০১৭১৯-৩৯৭৮২৬",
+      "email": "wahid.it.86r@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-007",
+      "name": "জান্নাতুল বাকী",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "পরীক্ষা নিয়ন্ত্রণ দপ্তর",
+      "blood_group": "",
+      "phone_number": "০১৯১১-৫১৩৭৪১",
+      "email": "jannatul.baky@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-008",
+      "name": "মোঃ লুতফুল কবির খান",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "পরীক্ষা নিয়ন্ত্রণ দপ্তর",
+      "blood_group": "",
+      "phone_number": "০১৯১৩৯৩৩৯৮৬",
+      "email": "lutful.khan@nu.ac.bd",
+      "home_district": ""
+    },
+    {
+      "id": "emp-009",
+      "name": "মোঃ আহসান হাবীব",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "পরীক্ষা নিয়ন্ত্রণ দপ্তর",
+      "blood_group": "",
+      "phone_number": "০১৭৫৩-৫২৫১১৫",
+      "email": "ahsan.habib2@nu.ac.bd",
+      "home_district": ""
+    },
+    {
+      "id": "emp-010",
+      "name": "সোহেল রানা",
+      "designation": "অফিস সহায়ক",
+      "department_name": "পরীক্ষা নিয়ন্ত্রণ দপ্তর",
+      "blood_group": "",
+      "phone_number": "০১৭৮৪২৩৩৯৪৯",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-011",
+      "name": "পাশা মিয়া",
+      "designation": "অফিস সহায়ক",
+      "department_name": "পরীক্ষা নিয়ন্ত্রণ দপ্তর",
+      "blood_group": "",
+      "phone_number": "০১৭৪৮৭৩১৬৪৯",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-012",
+      "name": "জাহানারা আক্তার",
+      "designation": "অফিস সহায়ক",
+      "department_name": "পরীক্ষা নিয়ন্ত্রণ দপ্তর",
+      "blood_group": "",
+      "phone_number": "০১৯৯৫৭৪৯০৬২",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-013",
+      "name": "মোঃ আলমগীর হোসেন",
+      "designation": "অফিস সহায়ক",
+      "department_name": "পরীক্ষা নিয়ন্ত্রণ দপ্তর",
+      "blood_group": "",
+      "phone_number": "০১৯১১৫৮৬১৩৬",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-014",
+      "name": "আমিরুল ইসলাম",
+      "designation": "অফিস সহায়ক",
+      "department_name": "পরীক্ষা নিয়ন্ত্রণ দপ্তর",
+      "blood_group": "",
+      "phone_number": "০১৯১৩৫১৮০১৮",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-015",
+      "name": "মোঃ শিবলুর রহমান",
+      "designation": "উপ-পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "মাস্টার্স শেষ পর্ব শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৮-৪৬৯২২৪",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-016",
+      "name": "মোঃ মাহবুবুল ইসলাম",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "মাস্টার্স শেষ পর্ব শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৬-৮৪৬৫৯২",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-017",
+      "name": "মোঃ ইসহাক মাহমুদ",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "মাস্টার্স শেষ পর্ব শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১১-২৬০৯২০",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-018",
+      "name": "গৌতম কুমার ভৌমিক",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "মাস্টার্স শেষ পর্ব শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৭-২১৮৬০৫",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-019",
+      "name": "মোঃ জুলফিকার ইসলাম",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "মাস্টার্স শেষ পর্ব শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১২-৭৬২৮০৭",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-020",
+      "name": "মোঃ হারুন অর রশিদ",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক (কম্পিঃ)",
+      "department_name": "মাস্টার্স শেষ পর্ব শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১২-৫৬৬৭৪৯",
+      "email": "harun.njs@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-021",
+      "name": "কাজী সাহিদুর রহমান",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "মাস্টার্স শেষ পর্ব শাখা",
+      "blood_group": "",
+      "phone_number": "০১৯১৮-৯৯৭৯৮৫",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-022",
+      "name": "এনামুল কবীর",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "মাস্টার্স শেষ পর্ব শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১১-৯৫৫৮৩৯",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-023",
+      "name": "সুকুমার চন্দ্র মন্ডল",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "মাস্টার্স শেষ পর্ব শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৬-৪২৯৫৮২",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-024",
+      "name": "মোঃ আবুল কালাম মিয়াজি",
+      "designation": "সেকশন অফিসার",
+      "department_name": "মাস্টার্স শেষ পর্ব শাখা",
+      "blood_group": "",
+      "phone_number": "০১৮৬৭-৭৮২৭৭২",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-025",
+      "name": "বোরহান উদ্দিন",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "মাস্টার্স শেষ পর্ব শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭২৩৪৪৮২৯৭",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-026",
+      "name": "শাহীন মিয়া",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "মাস্টার্স শেষ পর্ব শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১০-২৩৫১৬৮",
+      "email": "shahin.nu88@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-027",
+      "name": "মোঃ শামিম আহমেদ",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "মাস্টার্স শেষ পর্ব শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৬৪২০৮৫৭",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-028",
+      "name": "মোঃ রাকিব হাসান",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "মাস্টার্স শেষ পর্ব শাখা",
+      "blood_group": "",
+      "phone_number": "০১৯১৬৯৯২২১৮",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-029",
+      "name": "মোঃ খায়রুল বাশার বাদশা",
+      "designation": "Office Assistant",
+      "department_name": "মাস্টার্স শেষ পর্ব শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১২৭৯৩৩৪০",
+      "email": "nubadsha@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-030",
+      "name": "মোঃ উজ্জল মোল্লা",
+      "designation": "Office Assistant",
+      "department_name": "মাস্টার্স শেষ পর্ব শাখা",
+      "blood_group": "",
+      "phone_number": "০১৯১০৪৪৩১৮৭",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-031",
+      "name": "গোলাম কিবরিয়া",
+      "designation": "উপ-পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "প্রিলিমিনারি টু মাস্টার্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১২৭৬৩৬৭৪, ০১৯৭৩৭৬৩৬৭৪",
+      "email": "golamkibria8486@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-032",
+      "name": "এ. কে. এম নাজমুল করিম",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "প্রিলিমিনারি টু মাস্টার্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৫১৩১৭২৮৫",
+      "email": "nazmulkarim528@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-033",
+      "name": "মোহাম্মদ গিয়াসউদ্দিন",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "প্রিলিমিনারি টু মাস্টার্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৬৩০৭৬২১৫০",
+      "email": "mgunubd@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-034",
+      "name": "কামরুন নাহার",
+      "designation": "সহকারী রেজিস্টার",
+      "department_name": "প্রিলিমিনারি টু মাস্টার্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৬৫১৯৯৮০৬",
+      "email": "naherk83@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-035",
+      "name": "মোঃ খোরশেদ আলম",
+      "designation": "সেকশন অফিসার",
+      "department_name": "প্রিলিমিনারি টু মাস্টার্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৮৭৯৯৮৮৯৯৫",
+      "email": "khorshedalamalam1968@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-036",
+      "name": "মোঃ গোলাম মোস্তফা",
+      "designation": "সেকশন অফিসার",
+      "department_name": "প্রিলিমিনারি টু মাস্টার্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১২২৩৬৩৪১",
+      "email": "mdgolammostafanu6@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-037",
+      "name": "ছালমা আক্তার",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "প্রিলিমিনারি টু মাস্টার্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৭৩২৭২৫৬",
+      "email": "salmaakternu1@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-038",
+      "name": "মোঃ আসাদুল্লাহ",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "প্রিলিমিনারি টু মাস্টার্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭২৯২৫৮৬২০",
+      "email": "asad0l70@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-039",
+      "name": "মোঃ আনোয়ার হোসেন মন্ডল",
+      "designation": "অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক",
+      "department_name": "প্রিলিমিনারি টু মাস্টার্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১১১৫১৫৭৪",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-040",
+      "name": "মোঃ শামীম আহমেদ",
+      "designation": "উপ-পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "অনার্স পার্ট-৪ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৩১৩-০৫২৩৬১",
+      "email": "shameem.ahmed@nu.ac.bd, dchp4.nu@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-041",
+      "name": "মোঃ ইউসুফ আলী",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "অনার্স পার্ট-৪ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৬-৪১৬৭৭৭",
+      "email": "nu.yousufali@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-042",
+      "name": "মোঃ শোয়েব আটিয়া",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "অনার্স পার্ট-৪ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৬২৬-৮২৬০৪৪",
+      "email": "mdshoebatia@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-043",
+      "name": "শাহ মোঃ শাহজাহান",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "অনার্স পার্ট-৪ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১১-০০৩৩৭২",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-044",
+      "name": "মোঃ আব্দুল বাতেন",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "অনার্স পার্ট-৪ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১২-৫৪২৬৮৮",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-045",
+      "name": "কাইয়ুম মিয়া",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "অনার্স পার্ট-৪ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৯১৪-১৪০১৯৮",
+      "email": "kaiyummiah222@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-046",
+      "name": "মোঃ মনিরুল ইসলাম জমাদ্দর",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "অনার্স পার্ট-৪ শাখা",
+      "blood_group": "",
+      "phone_number": "...",
+      "email": "...",
+      "home_district": ""
+    },
+    {
+      "id": "emp-047",
+      "name": "মোঃ লিটন হোসেন",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "অনার্স পার্ট-৪ শাখা",
+      "blood_group": "",
+      "phone_number": "....",
+      "email": "...",
+      "home_district": ""
+    },
+    {
+      "id": "emp-048",
+      "name": "মোঃ সাহিদুর রহমান",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "অনার্স পার্ট-৪ শাখা",
+      "blood_group": "",
+      "phone_number": "...",
+      "email": "...",
+      "home_district": ""
+    },
+    {
+      "id": "emp-049",
+      "name": "মোঃ মুর্শিদ আলম",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "অনার্স পার্ট-৪ শাখা",
+      "blood_group": "",
+      "phone_number": "....",
+      "email": "morrshidalam79@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-050",
+      "name": "মোঃ একরামুল হক",
+      "designation": "অফিস সহায়ক",
+      "department_name": "অনার্স পার্ট-৪ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১০-২১৭০৬৬",
+      "email": "ekramulhaque@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-051",
+      "name": "মোস্তাক আহমদ",
+      "designation": "অতিরিক্ত পরীক্ষা নিয়ন্ত্রক (ভারপ্রাপ্ত)",
+      "department_name": "অনার্স পার্ট-৩ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৮৩৩৭৭৬০৪০",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-052",
+      "name": "দ্বিজেন্দ্রনাথ বাকচী",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "অনার্স পার্ট-৩ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৪৪৩৬৫৯৮৯",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-053",
+      "name": "মোঃ সালাহ উদ্দিন",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "অনার্স পার্ট-৩ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১১১৭৩৫০৪",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-054",
+      "name": "মোঃ হারুন-অর-রশীদ",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "অনার্স পার্ট-৩ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৬৭৫৫৭৭৬৮৭",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-055",
+      "name": "আমিনুর রহমান খন্দকার",
+      "designation": "সেকশন অফিসার",
+      "department_name": "অনার্স পার্ট-৩ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৫৩০৪০১৬",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-056",
+      "name": "মো: নাসির মিয়া",
+      "designation": "সেকশন অফিসার",
+      "department_name": "অনার্স পার্ট-৩ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৬২৮০০০০৮৮",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-057",
+      "name": "মোঃ সোহেল রানা",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "অনার্স পার্ট-৩ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৯৬২৬২৫৯",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-058",
+      "name": "আব্দুল মালেক",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "অনার্স পার্ট-৩ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭২০৬৯৩২১৫",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-059",
+      "name": "আল আমিন",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "অনার্স পার্ট-৩ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৩৬২২৩০২৮",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-060",
+      "name": "মোঃ শেখ কামাল",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "অনার্স পার্ট-৩ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৬৫০৭৩৯১১",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-061",
+      "name": "মোঃ মেনাজুল ইসলাম",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "অনার্স পার্ট-৩ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১২২২০৯৭২",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-062",
+      "name": "মোঃ শহিদুল ইসলাম",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "অনার্স পার্ট-৩ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১১১৮৭৪৩৫",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-063",
+      "name": "আব্দুল হাকিম",
+      "designation": "অফিস সহায়ক",
+      "department_name": "অনার্স পার্ট-৩ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৩৩৬৮৭৭০৫",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-064",
+      "name": "মোঃ আলাউদ্দীন",
+      "designation": "অফিস সহায়ক",
+      "department_name": "অনার্স পার্ট-৩ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭২৪৫৫৯৯৩১",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-065",
+      "name": "মোঃ মনিরুজ্জামান মনির",
+      "designation": "উপ-পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "অনার্স পার্ট-২ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৩০-৭৯৫৮৯৩",
+      "email": "dch2.nu@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-066",
+      "name": "মোঃ তারাজুল ইসলাম",
+      "designation": "সহকারী-পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "অনার্স পার্ট-২ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১১-৫৮০৬৭২",
+      "email": "tarazulislam54605@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-067",
+      "name": "মোঃ আব্দুর রহিম",
+      "designation": "সহকারী-পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "অনার্স পার্ট-২ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১২-৭০৭৭৭৫",
+      "email": "Abdurrahim2nu@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-068",
+      "name": "মোঃ রেজাউল করিম",
+      "designation": "সেকশন অফিসার",
+      "department_name": "অনার্স পার্ট-২ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১২-০৬৭৫৬৯",
+      "email": "kmdrezaulnu@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-069",
+      "name": "কামরুজ্জামান",
+      "designation": "সেকশন অফিসার",
+      "department_name": "অনার্স পার্ট-২ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১২-৬৩৭৯৪৪",
+      "email": "kamruzzaman2068@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-070",
+      "name": "উম্মে হাবিবা",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "অনার্স পার্ট-২ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৫৩-৩৫৩০২৪",
+      "email": "ummehabibatoma328@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-071",
+      "name": "বিপ্লব কুমার দত্ত",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "অনার্স পার্ট-২ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৮৪৩-৫১৯৭৯০",
+      "email": "dch2.nu@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-072",
+      "name": "মো জসিম উদ্দিন",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "অনার্স পার্ট-২ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৬২-৬৫৬৫৬৯৭",
+      "email": "Jasimuddin01720@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-073",
+      "name": "মোঃ প্রদীপ কুমার সমদ্দার",
+      "designation": "ডাটা-এন্ট্রি অপারেটর",
+      "department_name": "অনার্স পার্ট-২ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৬০-০৫৫৯৯০",
+      "email": "pksamaddernu@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-074",
+      "name": "মোঃ সহিদুল ইসলাম",
+      "designation": "অফিস সহায়ক",
+      "department_name": "অনার্স পার্ট-২ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৬-২৫১৫০১",
+      "email": "dch2.nu@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-075",
+      "name": "আমিরুল হোসেন",
+      "designation": "অফিস সহায়ক",
+      "department_name": "অনার্স পার্ট-২ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৩২-৭৬১৭৫৯",
+      "email": "dch2.nu@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-076",
+      "name": "মোঃ আব্দুস সামাদ",
+      "designation": "অতিরিক্ত পরীক্ষা নিয়ন্ত্রক (ভারপ্রাপ্ত)",
+      "department_name": "অনার্স পার্ট-১ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১১-২২৯০৭৩",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-077",
+      "name": "মোঃ আশরাফ আলী",
+      "designation": "অতিরিক্ত পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৩১৩০৫২৩৭০",
+      "email": "ashrafnu93@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-078",
+      "name": "মোঃ নজরুল ইসলাম তালুকদার",
+      "designation": "উপ-পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৬২-৫৫২৮৯৮",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-079",
+      "name": "মোঃ আতিয়ার রহমান",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৯১৪-২৫৭৬৬২",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-080",
+      "name": "মোঃ আবুল হাশেম খান",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১১-১৯২৩৫২",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-081",
+      "name": "মুহাম্মদ খাদেমুল ইসলাম",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১২-০৯০১৪২",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-082",
+      "name": "মোঃ মাজেদুর রহমান",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৭১-২৩৪২৯১",
+      "email": "mdmajadurrahman293@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-083",
+      "name": "মোঃ খায়রুল ইসলাম",
+      "designation": "সেকশন অফিসার",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৬-৯৪২৪৯৯",
+      "email": "khairul942499@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-084",
+      "name": "মোঃ নাজমুল আলম",
+      "designation": "সেকশন অফিসার",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৬১১-৮২৫৩২২",
+      "email": "alomnazmul622@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-085",
+      "name": "ইকবাল হোসাইন",
+      "designation": "সেকশন অফিসার",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭২৫-৪১৮৬২০",
+      "email": "iqbal.hossain@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-086",
+      "name": "মোঃ আলতাব হোসেন",
+      "designation": "সেকশন অফিসার",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭২৪-৯০২৩৩৫",
+      "email": "altabhossain1971@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-087",
+      "name": "এস. কে নাজমিন আরা",
+      "designation": "সেকশন অফিসার",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৭৬-২৭৪২৯৯",
+      "email": "Nazmin21bd@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-088",
+      "name": "মোঃ আব্দুল আলীম",
+      "designation": "সাব-টেকনিক্যাল অফিসার",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৯৫৫-৩৮৩৯২২",
+      "email": "aalimnu@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-089",
+      "name": "হেনা কবির",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৬-২৯৬৯৯৯",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-090",
+      "name": "মোহাম্মদ ফারুক আহম্মেদ ভুঞা",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১২-১৮৭৩৮৯",
+      "email": "farukjamal854@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-091",
+      "name": "আব্দুল্লাহ মোর্শেদ",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৯১৯-৪৫৩২৩১",
+      "email": "abdullamorshed5@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-092",
+      "name": "মোঃ শরিফুল ইসলাম",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৯২১-২১০১৫৯",
+      "email": "sharif05.nu@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-093",
+      "name": "মোঃ মমিনুল ইসলাম",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৯২৩-৫৬২২২২",
+      "email": "mdmomen9708@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-094",
+      "name": "মোহাম্মদ মোমেন মিয়া",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৮৩৮-৪২৩৪১১",
+      "email": "mumomenmiah@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-095",
+      "name": "মোঃ আমিরুল ইসলাম সরকার",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭২৪-৬৮৬৯৩৫",
+      "email": "amirulnu86@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-096",
+      "name": "মোঃ উজ্জল আলী",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭২৪-৮৩৮৬৯৫",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-097",
+      "name": "মোঃ হুমায়ূন কবির সরকার",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৯১৫-৩৫৭৫০৩",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-098",
+      "name": "মোঃ রাজ দুলাল রাফি",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৩৬-১১৪০৩৯",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-099",
+      "name": "মোঃ আবু সাঈদ চৌধুরী",
+      "designation": "অফিস সহ. কাম কম্পিঃ মুদ্রাক্ষরিক",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৩১-০০৭১৫৩",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-100",
+      "name": "মোঃ জাকের হোসেন",
+      "designation": "অফিস সহ. কাম কম্পিঃ মুদ্রাক্ষরিক",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৩-৫০৭৯১৪",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-101",
+      "name": "মোঃ সেকেন্দার আলী",
+      "designation": "অফিস সহায়ক",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৩৮-৩১৬১৮১",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-102",
+      "name": "মোঃ অলিয়ার রহমান",
+      "designation": "অফিস সহায়ক",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭২০০১৯১২৭",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-103",
+      "name": "মোঃ রিপন মিয়া",
+      "designation": "অফিস সহায়ক",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৫৬-৩৪৭৯৯৮",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-104",
+      "name": "জনাব মোঃ রইছ ফকির",
+      "designation": "অফিস সহায়ক",
+      "department_name": "ডিগ্রী পাস ও সার্টিফিকেট কোর্স শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১২-৯৩৯২০৬",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-105",
+      "name": "মোঃ জাকের হোসেন",
+      "designation": "অতিরিক্ত-পরীক্ষা নিয়ন্ত্রক (ভারপ্রাপ্ত)",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১১-১৬২৬৭৬",
+      "email": "jakird217@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-106",
+      "name": "মোঃ আখতার হোসেন",
+      "designation": "উপ-পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৬-৫২১১০৪",
+      "email": "akter.hossain@nu.ac.bd",
+      "home_district": ""
+    },
+    {
+      "id": "emp-107",
+      "name": "মোহাম্মদ ফরিদ উদ্দিন চৌধুরী",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৮২৯-৭৩১৫৫৯",
+      "email": "faridnubd@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-108",
+      "name": "মোঃ আতিয়ার রহমান",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৬-৫৭৯০৭০",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-109",
+      "name": "মোঃ মিজানুর রহমান",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৯১৭-২৬৫২০০",
+      "email": "mizan.nubd@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-110",
+      "name": "মোঃ নাজিম উদ্দিন",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৮-৭৪২৭৩৪",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-111",
+      "name": "এস এম সরোয়ার হোসেন",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৮-৩৭০৯৭০",
+      "email": "SMSarwar1974@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-112",
+      "name": "মোঃ অহিদুল প্রামানিক",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৪৩-৯৬৮০৪৭",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-113",
+      "name": "মোঃ শফিকুল ইসলাম",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৬৪-২৯৯৬৮৯",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-114",
+      "name": "মোঃ আবু হাসনাইন তারিক",
+      "designation": "সেকশন অফিসার",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৬-৮১৬৬২৬",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-115",
+      "name": "মো: ফারুক আহম্মদ",
+      "designation": "সেকশন অফিসার",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "...",
+      "email": "...",
+      "home_district": ""
+    },
+    {
+      "id": "emp-116",
+      "name": "রফিকুল ইসলাম গাজী",
+      "designation": "সেকশন অফিসার",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৭-০৭৪৩১৪",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-117",
+      "name": "মোঃ আফছার আলী মন্ডল",
+      "designation": "সেকশন অফিসার",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১২-১৫৯২১৮",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-118",
+      "name": "প্রদীপ বাড়ৈ",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৬-৪৬৩৬২৯",
+      "email": "prodipkb.cse@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-119",
+      "name": "প্রদীপ কুমার বিশ্বাস",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৫-২৩৪৮০২",
+      "email": "Prodipcse01@gmail.com",
+      "home_district": ""
+    },
+    {
+      "id": "emp-120",
+      "name": "সাব্বির আহম্মদ মোল্লা",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৭-২৩০৭৮৬",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-121",
+      "name": "মোঃ মিজানুর রহমান",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৭-২৯২৪৯৬",
+      "email": "mizanur.rahman3@nu.ac.bd",
+      "home_district": ""
+    },
+    {
+      "id": "emp-122",
+      "name": "জনাব আমিন উদ্দিন",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৩-৫৬৪১৬৫",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-123",
+      "name": "মোঃ লুৎফর রহমান",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭১৯-৮০৩৫০৩",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-124",
+      "name": "আহম্মদ হোসেন",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৫০-৯২৮৫৩৩",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-125",
+      "name": "মোঃ জসিম উদ্দিন",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭৩৪-৬২৭৫৬৫",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-126",
+      "name": "মোঃ মইজুল হক",
+      "designation": "অফিস সহায়ক",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৮৪৬-৮৩৫৫৪৪",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-127",
+      "name": "মোঃ নুরুল ইসলাম",
+      "designation": "অফিস সহায়ক",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৭২৫-৪১৫৭০২",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-128",
+      "name": "মোঃ শরিফুল ইলাম",
+      "designation": "অফিস সহায়ক",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৯৪৫-৫০৭৭৪৩",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-129",
+      "name": "মোঃ জাকারিয়া শেখ",
+      "designation": "অফিস সহায়ক",
+      "department_name": "প্রফেশনাল শাখা",
+      "blood_group": "",
+      "phone_number": "০১৮৪০-০২০২৪৩",
+      "email": "",
+      "home_district": ""
+    },
+    {
+      "id": "emp-130",
+      "name": "মুহাম্মাদ হাবিবুর রহমান",
+      "designation": "উপ-পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "সনদ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৩১৩০৫২৩৬৩",
+      "email": "habibur.rahman1@nu.ac.bd",
+      "home_district": ""
+    },
+    {
+      "id": "emp-131",
+      "name": "ছালমা আকতার",
+      "designation": "সহকারী পরীক্ষা নিয়ন্ত্রক",
+      "department_name": "সনদ শাখা",
+      "blood_group": "",
+      "phone_number": "০১৫৫২৩৩৯৫৬৬",
+      "email": "salma.akhter@nu.ac.bd",
+      "home_district": ""
+    },
     ]
   },
   {
