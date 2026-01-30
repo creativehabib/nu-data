@@ -6554,5 +6554,141 @@
       "home_district": "Dhaka"
     }
   ]
+},
+  {
+  "id": "central-store",
+  "name": "Department of Central Store",
+  "employees": [
+    {
+      "id": "central-store-001",
+      "name": "Taufiq Imam Mohammad Ashraful Alam",
+      "designation": "Deputy Director",
+      "department_name": "Department of Central Store",
+      "blood_group": "O+",
+      "phone_number": "+8801711303692",
+      "email": "nu.ashraful@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "central-store-002",
+      "name": "Azom Shaikh",
+      "designation": "Assistant Director",
+      "department_name": "Department of Central Store",
+      "blood_group": "O+",
+      "phone_number": "+8801711020762",
+      "email": "azom.shaikh@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "central-store-003",
+      "name": "Md. Ali Hossain",
+      "designation": "Assistant Director",
+      "department_name": "Department of Central Store",
+      "blood_group": "O+",
+      "phone_number": "+8801740972281",
+      "email": "ali.hossain2@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "central-store-004",
+      "name": "Jesmin Akther",
+      "designation": "Assistant Director",
+      "department_name": "Department of Central Store",
+      "blood_group": "O+",
+      "phone_number": "+8801683403554",
+      "email": "jasmine.akther@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "central-store-005",
+      "name": "Md. Atikur Rahman",
+      "designation": "Section Officer",
+      "department_name": "Department of Central Store",
+      "blood_group": "O+",
+      "phone_number": "+8801935568352",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "central-store-006",
+      "name": "Md. Altab Hossain",
+      "designation": "Section Officer",
+      "department_name": "Department of Central Store",
+      "blood_group": "O+",
+      "phone_number": "+8801724902335",
+      "email": "altabhossain1971@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "central-store-007",
+      "name": "Kafil Uddin Mahmud Mojumder",
+      "designation": "Technical Officer",
+      "department_name": "Department of Central Store",
+      "blood_group": "O+",
+      "phone_number": "+8801670320534",
+      "email": "kafil.mojumder@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "central-store-008",
+      "name": "Md. Rafiqul Islam",
+      "designation": "Upper division",
+      "department_name": "Department of Central Store",
+      "blood_group": "O+",
+      "phone_number": "+8801716027763",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "central-store-009",
+      "name": "Md. Enayetur Rahman",
+      "designation": "Upper division",
+      "department_name": "Department of Central Store",
+      "blood_group": "O+",
+      "phone_number": "+8801788531377",
+      "email": "enayeturrahaman1996@gamil.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "central-store-010",
+      "name": "Mohammad Nazrul Islam",
+      "designation": "Upper division",
+      "department_name": "Department of Central Store",
+      "blood_group": "O+",
+      "phone_number": "+8801712729638",
+      "email": "1974nazrulislam1974@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "central-store-011",
+      "name": "Md. Raihan Reza",
+      "designation": "Office Assistant cum -Computer Typist",
+      "department_name": "Department of Central Store",
+      "blood_group": "O+",
+      "phone_number": "+8801568905783",
+      "email": "raihanrezamondal@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "central-store-012",
+      "name": "Md.Abul Hasem Shepi",
+      "designation": "Office Assistant",
+      "department_name": "Department of Central Store",
+      "blood_group": "O+",
+      "phone_number": "+8801727548975",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "central-store-013",
+      "name": "Md. Jahangir Alom Gazi",
+      "designation": "Office Assistant",
+      "department_name": "Department of Central Store",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    }
+  ]
 }
 ]
