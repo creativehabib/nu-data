@@ -6690,5 +6690,121 @@
       "home_district": "Dhaka"
     }
   ]
+},
+  {
+  "id": "medical-centre",
+  "name": "Medical Centre",
+  "employees": [
+    {
+      "id": "medical-001",
+      "name": "Nadira Begum",
+      "designation": "Deputy Registrar",
+      "department_name": "Medical Centre",
+      "blood_group": "O+",
+      "phone_number": "+8801744294465",
+      "email": "Begumnadira1975@Gmail.Com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "medical-002",
+      "name": "Nittyananda Gain",
+      "designation": "Deputy Registrar",
+      "department_name": "Medical Centre",
+      "blood_group": "O+",
+      "phone_number": "+8801718648808",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "medical-003",
+      "name": "Gita Rani",
+      "designation": "Asst.Registrar",
+      "department_name": "Medical Centre",
+      "blood_group": "O+",
+      "phone_number": "+8801712006782",
+      "email": "Gitarani8337@Gmail.Com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "medical-004",
+      "name": "Sharmin Akther",
+      "designation": "Asst. Registrar",
+      "department_name": "Medical Centre",
+      "blood_group": "O+",
+      "phone_number": "+8801718293222",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "medical-005",
+      "name": "Md Abdul Aziz Sarker",
+      "designation": "Asst. Registrar",
+      "department_name": "Medical Centre",
+      "blood_group": "O+",
+      "phone_number": "+8801711487345",
+      "email": "Aziz.Nubd123@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "medical-006",
+      "name": "Mohammad Enamul Haque",
+      "designation": "Section Officer",
+      "department_name": "Medical Centre",
+      "blood_group": "O+",
+      "phone_number": "+8801793574508",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "medical-007",
+      "name": "Ratna Debnath",
+      "designation": "Staff Nurse",
+      "department_name": "Medical Centre",
+      "blood_group": "O+",
+      "phone_number": "+8801718651020",
+      "email": "Ratnadebnathj@Gmail.Com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "medical-008",
+      "name": "S.M. Towhedur Rahman",
+      "designation": "Office Assistant Cum-Computer Mudrakhorik",
+      "department_name": "Medical Centre",
+      "blood_group": "O+",
+      "phone_number": "+8801711178352",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "medical-009",
+      "name": "Monowara Khatun",
+      "designation": "Medical Attndant",
+      "department_name": "Medical Centre",
+      "blood_group": "O+",
+      "phone_number": "+8801959095204",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "medical-010",
+      "name": "Mst Jesmin Nahar",
+      "designation": "MLSS",
+      "department_name": "Medical Centre",
+      "blood_group": "O+",
+      "phone_number": "+8801914997674",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "medical-011",
+      "name": "Md. Saiful Islam",
+      "designation": "Office Assistant",
+      "department_name": "Medical Centre",
+      "blood_group": "O+",
+      "phone_number": "+8801781920907",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    }
+  ]
 }
 ]
