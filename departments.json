@@ -128,5 +128,41 @@
         "home_district": "Sherpur"
       }
     ]
+  },
+  {
+    "id": "college",
+    "name": "Department of College Inspection",
+    "employees": [
+      {
+        "id": "disc-001",
+        "name": "Nazim Uddin",
+        "designation": "Director",
+        "department_name": "Department of College Inspection",
+        "blood_group": "A+",
+        "phone_number": "+880171100000",
+        "email": "college.inspection@nu.ac.bd",
+        "home_district": "Dhaka"
+      },
+      {
+        "id": "disc-002",
+        "name": "Sana Ullah",
+        "designation": "Additional College Inspector",
+        "department_name": "Department of College Inspection",
+        "blood_group": "O+",
+        "phone_number": "+88017110000",
+        "email": "sana.ullah@nu.ac.bd",
+        "home_district": "Gazipur"
+      },
+      {
+        "id": "disc-003",
+        "name": "Habibur Rahaman",
+        "designation": "Administrative Officer",
+        "department_name": "Discipline & Security Department",
+        "blood_group": "O+",
+        "phone_number": "+8801914120688",
+        "email": "habibur.rahman2@nu.ac.bd",
+        "home_district": "Sherpur"
+      }
+    ]
   }
 ]
