@@ -3464,5 +3464,141 @@
         "home_district": "Sherpur"
       }
     ]
-  }
+  },
+  {
+  "id": "internal-audit",
+  "name": "Internal Audit Department",
+  "employees": [
+    {
+      "id": "audit-001",
+      "name": "মোঃ জসিম উদ্দীন",
+      "designation": "পরিচালক",
+      "department_name": "Internal Audit Department",
+      "blood_group": "O+",
+      "phone_number": "+8801716361608",
+      "email": "jasimsikd@gmail.com, nu.internalaudit@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "audit-002",
+      "name": "মোঃ সুলতান উদ্দিন",
+      "designation": "উপ-পরিচালক",
+      "department_name": "Internal Audit Department",
+      "blood_group": "O+",
+      "phone_number": "+8801918154801",
+      "email": "sultan.uddin@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "audit-003",
+      "name": "মোঃ আব্দুর রাজ্জাক",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Internal Audit Department",
+      "blood_group": "O+",
+      "phone_number": "+8801718738142",
+      "email": "abdur.razzak2@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "audit-004",
+      "name": "শেখ এনায়েত রাসেল",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Internal Audit Department",
+      "blood_group": "O+",
+      "phone_number": "+8801717042251",
+      "email": "sheikh.enaith @nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "audit-005",
+      "name": "নারগিছ আক্তার",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Internal Audit Department",
+      "blood_group": "O+",
+      "phone_number": "+8801714531773",
+      "email": "nargish.akter@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "audit-006",
+      "name": "মোহাঃ শাহ্ আলম মিয়া",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Internal Audit Department",
+      "blood_group": "O+",
+      "phone_number": "+8801819119276",
+      "email": "shahalam.miah@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "audit-007",
+      "name": "মোঃ হুমায়ুন কবির",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Internal Audit Department",
+      "blood_group": "O+",
+      "phone_number": "+8801725225461",
+      "email": "humayun.kabir2@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "audit-008",
+      "name": "মোহাম্মদ জাকির মাকসুদ",
+      "designation": "সাব-টেকনিক্যাল অফিসার",
+      "department_name": "Internal Audit Department",
+      "blood_group": "O+",
+      "phone_number": "+8801914432044",
+      "email": "jakir.makswd@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "audit-009",
+      "name": "মোঃ নাসিদুল ইসলাম",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "Internal Audit Department",
+      "blood_group": "O+",
+      "phone_number": "+8801720433607",
+      "email": "nashidul.islam@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "audit-010",
+      "name": "সেলিনা আক্তার",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Internal Audit Department",
+      "blood_group": "O+",
+      "phone_number": "+8801966631054",
+      "email": "salina.akter@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "audit-011",
+      "name": "মোহাম্মদ আব্দুল কাদের চৌধুরী",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Internal Audit Department",
+      "blood_group": "O+",
+      "phone_number": "+8801836362873",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "audit-012",
+      "name": "মোঃ শাহজাহান",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Internal Audit Department",
+      "blood_group": "O+",
+      "phone_number": "+8801715459836",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "audit-013",
+      "name": "মোঃ নাসির হোসেন",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Internal Audit Department",
+      "blood_group": "O+",
+      "phone_number": "+8801712560409",
+      "email": "hmnasir0775@gmail.com",
+      "home_district": "Dhaka"
+    }
+  ]
+}
 ]
