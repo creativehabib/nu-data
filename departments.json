@@ -7314,5 +7314,271 @@
       "home_district": "Dhaka"
     }
   ]
+},
+  {
+  "id": "teacher-training",
+  "name": "Teacher Training Office",
+  "employees": [
+    {
+      "id": "tt-001",
+      "name": "মোছাঃ সালমা পারভীন",
+      "designation": "পরিচালক",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801713-313679",
+      "email": "director.tt@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-002",
+      "name": "তমাল বড়ুয়া",
+      "designation": "উপ-পরিচালক",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801556-352676",
+      "email": "tamal.barua@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-003",
+      "name": "মুহাম্মদ আরেফুল আযিম",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712-674366",
+      "email": "ariful.azim@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-004",
+      "name": "খন্দকার মামুন আফসার",
+      "designation": "সহকারী পরিচালক (কম্পিউটার)",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801531-321624",
+      "email": "mamun.afser@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-005",
+      "name": "মোঃ আসাদুল ইসলাম",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712-028474",
+      "email": "asadul.islam@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-006",
+      "name": "মোঃ সাইফুল ইসলাম চৌধুরী",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801924-599297",
+      "email": "saiful.chowdhury@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-007",
+      "name": "মোঃ অহিদুজ্জামান",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801734-016973",
+      "email": "md.wahidujjaman@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-008",
+      "name": "মোঃ আসাদুজ্জামান",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801724-329451",
+      "email": "ashaduzzaman@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-009",
+      "name": "মোঃ আরিফুল হক",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801749-942527",
+      "email": "ariful.haque@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-010",
+      "name": "তানিয়া লিপি",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801756-297757",
+      "email": "tania.lipy@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-011",
+      "name": "মোঃ মাহফুজ উল্লাহ",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801724-853017",
+      "email": "md.mahfuzullah@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-012",
+      "name": "মোঃ মহিবুল হাসান",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801915-726576",
+      "email": "mohibul.h@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-013",
+      "name": "মোঃ এরশাদ মিয়া",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801743-549355",
+      "email": "arshad.mia@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-014",
+      "name": "আল আমিন তালুকদার",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801722-728264",
+      "email": "alamin.talukder@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-015",
+      "name": "মেহেরাজুল ইসলাম",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801554-350699",
+      "email": "meherajul.islam@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-016",
+      "name": "জেমিনী সিদ্দিকী",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801765-854998",
+      "email": "zemini.siddique@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-017",
+      "name": "মোঃ মেহেদী হাছান",
+      "designation": "সাব-টেকনিক্যাল অফিসার",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801819-843072",
+      "email": "mahedi.hasan@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-018",
+      "name": "মাহমুদা খানম",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801720-362615",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-019",
+      "name": "আকলিমা বেগম",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801768-761058",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-020",
+      "name": "মোঃ সদরুজ্জামান সাদী",
+      "designation": "ডাটা এন্ট্রি অপারেটর",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801717-400111",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-021",
+      "name": "মোঃ সায়েম আলী খান",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711-704076",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-022",
+      "name": "মোঃ দেলোয়ার হোসেন",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801716-790102",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-023",
+      "name": "মোছাঃ মারুফা আক্তার",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801776-664751",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-024",
+      "name": "মোঃ রাসেল মিয়া",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801778-599000",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-025",
+      "name": "মোঃ মজিবুর রহমান",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801715-473137",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "tt-026",
+      "name": "কমল নারায়ন চক্রবর্তী",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Teacher Training Office",
+      "blood_group": "O+",
+      "phone_number": "+8801946-399079",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    }
+  ]
 }
 ]
