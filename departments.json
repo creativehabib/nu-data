@@ -6328,5 +6328,231 @@
       "home_district": "Dhaka"
     }
   ]
+},
+  {
+  "id": "planning-development",
+  "name": "Planning & Development Office",
+  "employees": [
+    {
+      "id": "plan-dev-001",
+      "name": "মোঃ খায়রুল ইসলাম মন্ডল",
+      "designation": "পরিচালক (ভারপ্রাপ্ত)",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801713-482221",
+      "email": "khairul.mondol@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-002",
+      "name": "মোঃ হাফিজুর রহমান",
+      "designation": "উপ-পরিচালক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711-221974",
+      "email": "hafizur.rahman2@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-003",
+      "name": "এস এম তাহেরুল ইসলাম",
+      "designation": "উপ-পরিচালক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801726-438009",
+      "email": "taherul.islam@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-004",
+      "name": "মোঃ মীর কাশেম",
+      "designation": "উপ-পরিচালক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801735-233679",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-005",
+      "name": "মোহাম্মদ রফিকুল ইসলাম",
+      "designation": "উপ-পরিচালক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801719-336273",
+      "email": "md.rafiqulislam598@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-006",
+      "name": "আবুল কালাম মোস্তফা",
+      "designation": "উপ-পরিচালক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801703-998700",
+      "email": "akmostofa74@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-007",
+      "name": "সেলিম হোসেন",
+      "designation": "উপ-পরিচালক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712-224597",
+      "email": "salim2151975@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-008",
+      "name": "মোছাঃ সাজেদা খাতুন",
+      "designation": "উপ-পরিচালক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801717-881400",
+      "email": "shajada.nu.bd@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-009",
+      "name": "মোঃ সোহেল রানা",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801716-103713",
+      "email": "md.sohelrana@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-010",
+      "name": "মোঃ কামরুজ্জামান মজুমদার",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711-173757",
+      "email": "kmiraz1737@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-011",
+      "name": "আবু সালেহ মোঃ শরিফ",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711-132254",
+      "email": "salehsharif536@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-012",
+      "name": "মোঃ এনায়েত উল্যা",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712-436254",
+      "email": "anayet.ullah@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-013",
+      "name": "মোঃ রায়হান হাবীব",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801816-224074",
+      "email": "rayhan.habib@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-014",
+      "name": "সুদীপ্ত কুমার রায়",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801515-214738",
+      "email": "sudipto.roy@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-015",
+      "name": "শুভ্রা দেওয়ান",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801963-633479",
+      "email": "subra.dewan@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-016",
+      "name": "মোঃ রোকনুজ্জামান",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801710-533647",
+      "email": "rokan417@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-017",
+      "name": "প্রবীর কুমার মন্ডল",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801731-292656",
+      "email": "prabir.mondal@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-018",
+      "name": "মোঃ জাহাঙ্গীর আলম",
+      "designation": "উপ-সহকারী প্রকৌশলী",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711-284080",
+      "email": "jahangir.alam@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-019",
+      "name": "মোঃ ছিদ্দিক মিয়া",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801837-533250",
+      "email": "siddique.miah@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-020",
+      "name": "মোঃ হাসান মিয়া",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801617-269586",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-021",
+      "name": "মোঃ মুরাদ হোসেন",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801777-177794",
+      "email": "murad195.ahmed@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "plan-dev-022",
+      "name": "মোঃ অলি আহমেদ",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801727-743099",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    }
+  ]
 }
 ]
