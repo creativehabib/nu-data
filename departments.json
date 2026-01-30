@@ -7198,5 +7198,121 @@
       "home_district": "Dhaka"
     }
   ]
+},
+  {
+  "id": "office-online-education",
+  "name": "Office of the Online Education",
+  "employees": [
+    {
+      "id": "online-edu-001",
+      "name": "মো: কামরুজ্জামান",
+      "designation": "পরিচালক",
+      "department_name": "Office of the Online Education",
+      "blood_group": "O+",
+      "phone_number": "+8801313-753307",
+      "email": "qamruz13@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "online-edu-002",
+      "name": "মো: বদরুল ইসলাম",
+      "designation": "নেটওয়ার্ক এডমিনিস্ট্রেটর",
+      "department_name": "Office of the Online Education",
+      "blood_group": "O+",
+      "phone_number": "+8801928-939171",
+      "email": "bakul999@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "online-edu-003",
+      "name": "মো: আইনুল ইসলাম",
+      "designation": "উপ-পরিচালক",
+      "department_name": "Office of the Online Education",
+      "blood_group": "O+",
+      "phone_number": "+8801715-317573",
+      "email": "badal0044@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "online-edu-004",
+      "name": "হাফিজ জামিল",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Office of the Online Education",
+      "blood_group": "O+",
+      "phone_number": "+8801912-148147",
+      "email": "hafizjamil01912@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "online-edu-005",
+      "name": "মো: মাহাবুবুর রশিদ মৃধা",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Office of the Online Education",
+      "blood_group": "O+",
+      "phone_number": "+8801711-236244",
+      "email": "mahabuburrashid1975@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "online-edu-006",
+      "name": "মো: সাজ্জাদ হোসেন",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Office of the Online Education",
+      "blood_group": "O+",
+      "phone_number": "+8801716-616365",
+      "email": "hosainshazzad21@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "online-edu-007",
+      "name": "মো: রাকিবুল হাসান",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "Office of the Online Education",
+      "blood_group": "O+",
+      "phone_number": "+8801631-444100",
+      "email": "rakibul.hasan@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "online-edu-008",
+      "name": "মাহফুজা বেগম",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Office of the Online Education",
+      "blood_group": "O+",
+      "phone_number": "+8801911-211628",
+      "email": "mahfuzabegum220@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "online-edu-009",
+      "name": "মোছা: আইরিন কুরী",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Office of the Online Education",
+      "blood_group": "O+",
+      "phone_number": "+8801329809358",
+      "email": "irinkuri7@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "online-edu-010",
+      "name": "নরোত্তম কুমার মন্ডল",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Office of the Online Education",
+      "blood_group": "O+",
+      "phone_number": "+8801718049358",
+      "email": "naroiscad07@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "online-edu-011",
+      "name": "অসীম কুমার সিকদার",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Office of the Online Education",
+      "blood_group": "O+",
+      "phone_number": "+8801717320768",
+      "email": "aseemsikdar1234@gmail.com",
+      "home_district": "Dhaka"
+    }
+  ]
 }
 ]
