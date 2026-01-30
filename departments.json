@@ -5472,5 +5472,151 @@
       "home_district": "Dhaka"
     }
   ]
+},
+  {
+  "id": "planning-development",
+  "name": "Planning & Development Office",
+  "employees": [
+    {
+      "id": "planning-001",
+      "name": "মোঃ সিরাজুল ইসলাম",
+      "designation": "উপ-পরিচালক (চলতি দায়িত্ব)",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711-589432, +8801971-589432",
+      "email": "Sarajul.islam1746@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "planning-002",
+      "name": "মোহাম্মদ আলী আসগর খান সাবেরী",
+      "designation": "উপ-পরিচালক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711-235317",
+      "email": "aliasgorkhan1970@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "planning-003",
+      "name": "মোঃ নজরুল ইসলাম",
+      "designation": "উপ-পরিচালক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801300-690555, +8801762-661999",
+      "email": "nazrul.nu14@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "planning-004",
+      "name": "মোঃ আমীর খইয়াম",
+      "designation": "উপ-পরিচালক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801716-586664",
+      "email": "amir_khaiam@yahoo.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "planning-005",
+      "name": "মোঃ ফজলুর রহমান",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801724-475402",
+      "email": "fajlurrahman912@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "planning-006",
+      "name": "মুহাম্মদ আলী",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801701-346370",
+      "email": "mohammadalinew77@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "planning-007",
+      "name": "তামান্না শহীদ",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801915-527193",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "planning-008",
+      "name": "মোঃ আনোয়ারুল কবির",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801674-289752",
+      "email": "arwarulkabir9056@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "planning-009",
+      "name": "মোঃ আব্দুস সালাম",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801716-6021809",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "planning-010",
+      "name": "মোহাম্মদ এনায়েত উল্লা",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712-436254",
+      "email": "anayet.ullah@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "planning-011",
+      "name": "বিপ্লব কুমার রাজ বংশী",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801552-384048",
+      "email": "biplobrajbonshii@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "planning-012",
+      "name": "সাহিন হোসেন",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801819-189358",
+      "email": "kazi.mclbd@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "planning-013",
+      "name": "বিশ্বজিৎ বড়াল",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+88017178-179172",
+      "email": "baralbisqajit377@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "planning-014",
+      "name": "মুক্তা অধিকারী",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "Planning & Development Office",
+      "blood_group": "O+",
+      "phone_number": "+8801733-495000",
+      "email": "odhikamukta783@gmail.com",
+      "home_district": "Dhaka"
+    }
+  ]
 }
 ]
