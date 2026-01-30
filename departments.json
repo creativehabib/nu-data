@@ -6262,5 +6262,71 @@
       "home_district": "Dhaka"
     }
   ]
+},
+  {
+  "id": "public-relations",
+  "name": "Public Relations, Information & Counseling Department",
+  "employees": [
+    {
+      "id": "pr-01",
+      "name": "মোঃ মোস্তাফিজুর রহমান",
+      "designation": "পরিচালক (ভারপ্রাপ্ত)",
+      "department_name": "Public Relations, Information & Counseling Department",
+      "blood_group": "O+",
+      "phone_number": "+8801706543702",
+      "email": "mostafijnu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "pr-02",
+      "name": "মোছাঃ হাসি আকতার",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "Public Relations, Information & Counseling Department",
+      "blood_group": "O+",
+      "phone_number": "+8801777607114",
+      "email": "hashi.akter@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "pr-03",
+      "name": "অনিমেষ বিশ্বাস",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Public Relations, Information & Counseling Department",
+      "blood_group": "O+",
+      "phone_number": "+8801714816663",
+      "email": "nuanimesh@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "pr-04",
+      "name": "এ এন এম রকিবুল ইসলাম",
+      "designation": "অফিস সহকারি কাম কম্পিউটার মুদ্রাক্ষরিক (গ্রেড-০১)",
+      "department_name": "Public Relations, Information & Counseling Department",
+      "blood_group": "O+",
+      "phone_number": "+8801848320031",
+      "email": "rockybul.islam@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "pr-05",
+      "name": "মোঃ মোজাফফর হোসেন",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Public Relations, Information & Counseling Department",
+      "blood_group": "O+",
+      "phone_number": "+8801712725518",
+      "email": "mhossain5101969@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "pr-06",
+      "name": "মোঃ রুহুল আমিন",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Public Relations, Information & Counseling Department",
+      "blood_group": "O+",
+      "phone_number": "+8801858142078",
+      "email": "amdruhul930@gmail.com",
+      "home_district": "Dhaka"
+    }
+  ]
 }
 ]
