@@ -1,30 +1,690 @@
 [
   {
-    "id": "registrar",
-    "name": "Registrar Office",
-    "employees": [
-      {
-        "id": "reg-001",
-        "name": "Mr. Abdul Karim",
-        "designation": "Registrar",
-        "department_name": "Registrar Office",
-        "blood_group": "A+",
-        "phone_number": "+8801711000001",
-        "email": "registrar@nu.edu.bd",
-        "home_district": "Dhaka"
-      },
-      {
-        "id": "reg-002",
-        "name": "Ms. Shahana Ali",
-        "designation": "Assistant Registrar",
-        "department_name": "Registrar Office",
-        "blood_group": "B+",
-        "phone_number": "+8801711000002",
-        "email": "assistant.registrar@nu.edu.bd",
-        "home_district": "Cumilla"
-      }
-    ]
-  },
+  "id": "registrar-office",
+  "name": "Registrar Office & Administration",
+  "employees": [
+    {
+      "id": "regi-001",
+      "name": "Molla Mahfuz Al-Hossain",
+      "designation": "Registrar",
+      "department_name": "Office of the Registrar",
+      "blood_group": "O+",
+      "phone_number": "+8801711889969",
+      "email": "registrar_nu92@yahoo.com, registrar@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-002",
+      "name": "Md. Sheikh Majibar Rahman",
+      "designation": "Assistant Registrar (Computer)",
+      "department_name": "Office of the Registrar",
+      "blood_group": "O+",
+      "phone_number": "+8801711239795",
+      "email": "skmajibarrahman@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-003",
+      "name": "Mohammad Foyzur Rahman",
+      "designation": "Assistant Registrar",
+      "department_name": "Office of the Registrar",
+      "blood_group": "O+",
+      "phone_number": "+8801552441330",
+      "email": "foyzurrahman74@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-004",
+      "name": "Mehedi Hasan",
+      "designation": "Upper Division Assistant",
+      "department_name": "Office of the Registrar",
+      "blood_group": "O+",
+      "phone_number": "+8801673538852",
+      "email": "ove3600@gmail.com, mehedi.hasan@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-005",
+      "name": "Sabiha Akter",
+      "designation": "Upper Division Assistant",
+      "department_name": "Office of the Registrar",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "sabiha.akter112@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-006",
+      "name": "Afroza Akter Smrity",
+      "designation": "Office Assistant cum Computer Typist Grade-1",
+      "department_name": "Office of the Registrar",
+      "blood_group": "O+",
+      "phone_number": "+8801821399660",
+      "email": "smrityroy43@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-007",
+      "name": "Md. Wazi Ullah",
+      "designation": "Office Sohayok",
+      "department_name": "Office of the Registrar",
+      "blood_group": "O+",
+      "phone_number": "+8801771309428",
+      "email": "waziullahnu28@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-008",
+      "name": "Md. Abdur Rouf",
+      "designation": "Office Sohayok",
+      "department_name": "Office of the Registrar",
+      "blood_group": "O+",
+      "phone_number": "+8801727739975",
+      "email": "abdurroufnu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-009",
+      "name": "Md. Shahjahan Ali",
+      "designation": "Office Sohayok",
+      "department_name": "Office of the Registrar",
+      "blood_group": "O+",
+      "phone_number": "+8801922536974",
+      "email": "siam3404@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-010",
+      "name": "Dr. Md. Golam Rabbani",
+      "designation": "Director",
+      "department_name": "Office of the Registrar (Attached)",
+      "blood_group": "O+",
+      "phone_number": "+8801622246789",
+      "email": "dmgrabbani@yahoo.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-011",
+      "name": "Mohammad Amdadul Hoque",
+      "designation": "Deputy Registrar",
+      "department_name": "Office of the Registrar (Attached)",
+      "blood_group": "O+",
+      "phone_number": "+8801711581099",
+      "email": "engr.amdadnu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-012",
+      "name": "Abul Kalam Monjur Morshed",
+      "designation": "Section Officer",
+      "department_name": "Office of the Registrar (Attached)",
+      "blood_group": "O+",
+      "phone_number": "+8801902940717",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-013",
+      "name": "Md. Alamgir Hossain",
+      "designation": "Office Assistant cum Computer Typist",
+      "department_name": "Office of the Registrar (Attached)",
+      "blood_group": "O+",
+      "phone_number": "+8801921580721",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-014",
+      "name": "Mohammad Helal Uddin",
+      "designation": "Office Assistant cum Computer Typist",
+      "department_name": "Gazipur Campus",
+      "blood_group": "O+",
+      "phone_number": "+8801815891537",
+      "email": "mhelaluddin76@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-015",
+      "name": "মোহাম্মদ মফিজুল হক",
+      "designation": "উপ-রেজিস্ট্রার",
+      "department_name": "প্রশাসন-পরিষদ শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801711038247",
+      "email": "haquemm121@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-016",
+      "name": "সানজিদা সুলতানা",
+      "designation": "সেকশন অফিসার",
+      "department_name": "প্রশাসন-পরিষদ শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801673037400",
+      "email": "sunzida400@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-017",
+      "name": "কাজী কুতুব উদ্দিন দীপু",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "প্রশাসন-পরিষদ শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801914030101",
+      "email": "kutub.uddin@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-018",
+      "name": "মো: শাহনূর আলম",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "প্রশাসন-পরিষদ শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801930328565",
+      "email": "shahnoor.alam@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-019",
+      "name": "যুবরাজ চন্দ্র ভৌমিক",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "প্রশাসন-পরিষদ শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801731321776",
+      "email": "jubaraj.bhowmik@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-020",
+      "name": "রুহুল আমিন",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "প্রশাসন-পরিষদ শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801721655675",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-021",
+      "name": "মো: রেজওয়ানুল হক",
+      "designation": "অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক গ্রডে-১",
+      "department_name": "প্রশাসন-পরিষদ শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801744790745",
+      "email": "likhonhaque937@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-022",
+      "name": "মোঃ মনিরুল ইসলাম",
+      "designation": "অফিস সহায়ক",
+      "department_name": "প্রশাসন-পরিষদ শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801919871060",
+      "email": "hmdmonir36@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-023",
+      "name": "রাজিব আহমেদ",
+      "designation": "অফিস সহায়ক",
+      "department_name": "প্রশাসন-পরিষদ শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801600296135",
+      "email": "ra9436587@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-024",
+      "name": "মুহাম্মদ কামাল হাছান",
+      "designation": "অতিরিক্ত রেজিস্ট্রার (ভারপ্রাপ্ত)",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801712975754",
+      "email": "kamalhassan.nu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-025",
+      "name": "মোঃ শাহ আলম শেখ",
+      "designation": "উপ-রেজিস্ট্রার",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801711287162",
+      "email": "salamnubd@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-026",
+      "name": "মোহাম্মদ শফিকুল ইসলাম",
+      "designation": "উপ-রেজিস্ট্রার",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801716580680",
+      "email": "safiq.nu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-027",
+      "name": "মোল্লা মাহবুবুল হক",
+      "designation": "উপ-রেজিস্ট্রার",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801552370647",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-028",
+      "name": "মোহাম্মদ রফিকুল ইসলাম",
+      "designation": "সহকারী রেজিস্ট্রার",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801718821432",
+      "email": "rafiqul.islam2@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-029",
+      "name": "মোঃ মোতাহার হোসেন",
+      "designation": "সহকারী রেজিস্ট্রার",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801716151579",
+      "email": "motahar.hossain@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-030",
+      "name": "মোল্লা তাজমিলুর রহমান",
+      "designation": "সহকারী রেজিস্ট্রার",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801712529207",
+      "email": "tazmilur.rahman@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-031",
+      "name": "মোঃ গিয়াস উদ্দিন",
+      "designation": "সেকশন অফিসার",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801714880636",
+      "email": "gias.uddin1@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-032",
+      "name": "কাজী ফাদিয়া ইকবাল",
+      "designation": "সেকশন অফিসার",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801676051053",
+      "email": "fadiaiqbal.bd@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-033",
+      "name": "আর্জিনা সুলতানা",
+      "designation": "সেকশন অফিসার(চুক্তিভিত্তিক)",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801711310497",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-034",
+      "name": "শওকত আরা পিংকি",
+      "designation": "সেকশন অফিসার",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801778398668",
+      "email": "sawkat.ara@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-035",
+      "name": "খালিদ হাসান",
+      "designation": "সেকশন অফিসার",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801916076860",
+      "email": "khalid.hasan@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-036",
+      "name": "আবু নাফে মোঃ আরশাদ আলী",
+      "designation": "সেকশন অফিসার",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801611919666",
+      "email": "arshad.ali@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-037",
+      "name": "দেলোয়ার হোসাইন",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801759088300",
+      "email": "engrdelowarnu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-038",
+      "name": "মনির আহাম্মদ",
+      "designation": "সাব-টেকনিক্যাল অফিসার",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801675794139",
+      "email": "fahadahammadsub@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-039",
+      "name": "মাউচিং মারমা",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801861041293",
+      "email": "mauching.marma@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-040",
+      "name": "তুহিন কুমার দাস",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801827646591",
+      "email": "tuhin.kumar@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-041",
+      "name": "মোঃ আব্দুল হাকিম",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-042",
+      "name": "হেলেনা খাতুন",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801717488613",
+      "email": "helena.helen862@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-043",
+      "name": "মোঃ জাহাঙ্গীর হোসেন",
+      "designation": "অফিস সহায়ক",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801713523966",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-044",
+      "name": "পদ্মা পাল",
+      "designation": "অফিস সহায়ক",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801939101707",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-045",
+      "name": "শুভ কুমার দাস",
+      "designation": "অফিস সহায়ক",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মকর্তা) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801994754587",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-046",
+      "name": "এস এম তাহমিদুর রহমান",
+      "designation": "উপ-রেজিস্ট্রার",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মচারী) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801712602386",
+      "email": "nutahmid65@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-047",
+      "name": "মোঃ আব্দুন নূর",
+      "designation": "সহকারী রেজিস্ট্রার",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মচারী) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801717069683",
+      "email": "abdun.nur@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-048",
+      "name": "মুহাম্মদ শহীদুল ইসলাম",
+      "designation": "সহকারী রেজিস্ট্রার",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মচারী) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801736376389",
+      "email": "shahidul.islam4@nu.ac.b",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-049",
+      "name": "মোঃ শহীদুল ইসলাম",
+      "designation": "সহকারী রেজিস্ট্রার",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মচারী) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801642339113",
+      "email": "shahidulislampanna7@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-050",
+      "name": "মোহাম্মদ মুজিবুর রহমান",
+      "designation": "সেকশন অফিসার",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মচারী) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801918201641",
+      "email": "mojibur.rahman4@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-051",
+      "name": "আছমা আখতার",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মচারী) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801716394346",
+      "email": "asma.akhter1@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-052",
+      "name": "হাবিবুর রহমান",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মচারী) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801745345313",
+      "email": "habibur.rahman4@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-053",
+      "name": "মোহাম্মদ আকরামুল হক",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মচারী) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801918414121",
+      "email": "akramulhoquenu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-054",
+      "name": "শাহানাজ পারভীন",
+      "designation": "ডাটা এন্ট্রি অপারেটর",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মচারী) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801749995174",
+      "email": "shahanaz.parvin@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-055",
+      "name": "রেজাউল করিম",
+      "designation": "অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক গ্রেড-১",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মচারী) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801748092726",
+      "email": "rezaul.karim@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-056",
+      "name": "নাছির আহম্মদ",
+      "designation": "অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মচারী) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801878912252",
+      "email": "nasir.a.rasel@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-057",
+      "name": "মোঃ মহর আলী",
+      "designation": "অফিস সহায়ক",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মচারী) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801942531444",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-058",
+      "name": "নাছরিন আক্তার",
+      "designation": "অফিস সহায়ক",
+      "department_name": "প্রশাসন (সংস্থাপন-কর্মচারী) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801608322300",
+      "email": "nasrinakternu2300@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-059",
+      "name": "স্বপন চন্দ্র সরকার",
+      "designation": "অফিস সহায়ক",
+      "department_name": "প্রশাসন (জেনারেল) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801746951621",
+      "email": "swapanmym72@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-060",
+      "name": "মোঃ আবদুল আলিম",
+      "designation": "সহকারী রেজিস্ট্রার",
+      "department_name": "প্রশাসন (কেন্দ্রীয় ডেসপাস) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801675365834",
+      "email": "nu.alim1974@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-061",
+      "name": "মোঃ শহিদুল ইসলাম",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "প্রশাসন (কেন্দ্রীয় ডেসপাস) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801711187435",
+      "email": "mdshohidulislam0065@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-062",
+      "name": "কারিমা খাতুন",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "প্রশাসন (কেন্দ্রীয় ডেসপাস) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801981705669",
+      "email": "karimaka20L11111@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-063",
+      "name": "হনুফা বেগম কেকা",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "প্রশাসন (কেন্দ্রীয় ডেসপাস) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801721074721",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-064",
+      "name": "মোঃ অলিউল্লাহ",
+      "designation": "ডেসপাচ রাইডার",
+      "department_name": "প্রশাসন (কেন্দ্রীয় ডেসপাস) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801821900751",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-065",
+      "name": "মোঃ দুলাল মিয়া",
+      "designation": "অফিস সহায়ক",
+      "department_name": "প্রশাসন (কেন্দ্রীয় ডেসপাস) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801711056770",
+      "email": "mddulalshihir@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-066",
+      "name": "মোঃ নুরুল ইসলাম",
+      "designation": "অফিস সহায়ক",
+      "department_name": "প্রশাসন (কেন্দ্রীয় ডেসপাস) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801721417179",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-067",
+      "name": "মোঃ শফিকুল ইসলাম",
+      "designation": "অফিস সহায়ক",
+      "department_name": "প্রশাসন (কেন্দ্রীয় ডেসপাস) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801737524578",
+      "email": "sofikulislama818@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "regi-068",
+      "name": "মোঃ রাসেল মিয়া",
+      "designation": "অফিস সহায়ক",
+      "department_name": "প্রশাসন (কেন্দ্রীয় ডেসপাস) শাখা",
+      "blood_group": "O+",
+      "phone_number": "+8801987769989",
+      "email": "mdradibahmed@gmail.com",
+      "home_district": "Dhaka"
+    }
+  ]
+},
   {
   "id": "exam-controller-office",
   "name": "Department of Examinations",
