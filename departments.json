@@ -6942,5 +6942,261 @@
       "home_district": "Dhaka"
     }
   ]
+},
+  {
+  "id": "procurement-store",
+  "name": "Procurement & Store Department",
+  "employees": [
+    {
+      "id": "proc-001",
+      "name": "Md. Parvez Sazzad",
+      "designation": "Director(Acting)",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801713062150, +8801712813959",
+      "email": "procurementstore2020.nu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-002",
+      "name": "Taufiq Imam Mohammad Ashraful Alam",
+      "designation": "Deputy Director",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801711303692",
+      "email": "nu.ashraful@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-003",
+      "name": "Md. Ezazul Hoq Hawlader",
+      "designation": "Deputy Director",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801712006431",
+      "email": "ezazul.hoq@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-004",
+      "name": "Md. Ali Hossain",
+      "designation": "Assistant Director",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801740972281",
+      "email": "ali.hossain2@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-005",
+      "name": "Azom Shaikh",
+      "designation": "Assistant Director",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801711020762",
+      "email": "azom.shaikh@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-006",
+      "name": "Md. Hafiz Ullah Ahmed",
+      "designation": "Assistant Director",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801711907255",
+      "email": "chandanar.nubd@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-007",
+      "name": "Dewan Golam Kibria",
+      "designation": "Assistant Director",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801716229091",
+      "email": "golam.kibria1@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-008",
+      "name": "Jesmin Akther",
+      "designation": "Assistant Director",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801683403554",
+      "email": "jasmine.akther@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-009",
+      "name": "Jannatul Ferdows",
+      "designation": "Assistant Director",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801813179034",
+      "email": "sopnanu.13@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-010",
+      "name": "Muammad Ashraful Alam",
+      "designation": "Assistant Director",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801756040127",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-011",
+      "name": "Md. Atikur Rahman",
+      "designation": "Section Officer",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801935568352",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-012",
+      "name": "Tarun Kumar Barai",
+      "designation": "Section Officer",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801721270518",
+      "email": "tarunbsl1986@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-013",
+      "name": "Kafil Uddin Mahmud Mojumder",
+      "designation": "Technical Officer",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801670320534",
+      "email": "kafil.mojumder@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-014",
+      "name": "Md. Anawar Parvej",
+      "designation": "Administrative Officer",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801738797201",
+      "email": "anawar.parvej@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-015",
+      "name": "Md. Rafiqul Islam",
+      "designation": "Upper division",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801716027763",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-016",
+      "name": "Md. Enayetur Rahman",
+      "designation": "Upper division",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801788531377",
+      "email": "enayeturrahaman1996@gamil.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-017",
+      "name": "Mohammad Nazrul Islam",
+      "designation": "Upper division",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801712729638",
+      "email": "nazrulislam1974@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-018",
+      "name": "Md. Shohel Miah",
+      "designation": "Upper division",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801715445203",
+      "email": "shohel25416@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-019",
+      "name": "Md. Din Islam",
+      "designation": "Office Assistant cum -Computer Typist",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801681065424",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-020",
+      "name": "Md. Raihan Reza",
+      "designation": "Office Assistant cum -Computer Typist",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801568905783",
+      "email": "raihanrezamondal@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-021",
+      "name": "Md.Abul Hasem Shepi",
+      "designation": "Office Assistant",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801727548975",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-022",
+      "name": "Md. Lutfor Rahman",
+      "designation": "Office Assistant",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+880175968882",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-023",
+      "name": "Md. Jamis Uddin",
+      "designation": "Office Assistant",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801977193085",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-024",
+      "name": "Md. Habibur Rahman",
+      "designation": "Office Assistant",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "+8801921485317",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proc-025",
+      "name": "Md. Jahangir Alom Gazi",
+      "designation": "Office Assistant",
+      "department_name": "Procurement & Store Department",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    }
+  ]
 }
 ]
