@@ -1,0 +1,44 @@
+[
+  {
+    "id": "registrar",
+    "name": "Registrar Office",
+    "employees": [
+      {
+        "id": "reg-001",
+        "name": "Mr. Abdul Karim",
+        "designation": "Registrar",
+        "department_name": "Registrar Office",
+        "blood_group": "A+",
+        "phone_number": "+8801711000001",
+        "email": "registrar@nu.edu.bd",
+        "home_district": "Dhaka"
+      },
+      {
+        "id": "reg-002",
+        "name": "Ms. Shahana Ali",
+        "designation": "Assistant Registrar",
+        "department_name": "Registrar Office",
+        "blood_group": "B+",
+        "phone_number": "+8801711000002",
+        "email": "assistant.registrar@nu.edu.bd",
+        "home_district": "Cumilla"
+      }
+    ]
+  },
+  {
+    "id": "exam-controller",
+    "name": "Exam Controller",
+    "employees": [
+      {
+        "id": "exam-001",
+        "name": "Dr. Fatema Ahmed",
+        "designation": "Controller of Examinations",
+        "department_name": "Exam Controller",
+        "blood_group": "O+",
+        "phone_number": "+8801711000003",
+        "email": "exam.controller@nu.edu.bd",
+        "home_district": "Rajshahi"
+      }
+    ]
+  }
+]
