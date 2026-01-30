@@ -6806,5 +6806,141 @@
       "home_district": "Dhaka"
     }
   ]
+},
+  {
+  "id": "information-counseling",
+  "name": "Information & Counseling Office",
+  "employees": [
+    {
+      "id": "info-001",
+      "name": "মোঃ কামরুল ইসলাম",
+      "designation": "উপ-পরিচালক",
+      "department_name": "Information & Counseling Office",
+      "blood_group": "O+",
+      "phone_number": "+8801610100883",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "info-002",
+      "name": "মোঃ জহরুল হক",
+      "designation": "উপ-পরিচালক",
+      "department_name": "Information & Counseling Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712168605",
+      "email": "salim.reza@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "info-003",
+      "name": "রুনা বেগম",
+      "designation": "উপ-পরিচালক",
+      "department_name": "Information & Counseling Office",
+      "blood_group": "O+",
+      "phone_number": "+8801590066844",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "info-004",
+      "name": "মো. জাহাঙ্গীর আলম",
+      "designation": "সহকারী-পরিচালক",
+      "department_name": "Information & Counseling Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711386950",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "info-005",
+      "name": "মো. রেজাউল করিম",
+      "designation": "সহকারী-পরিচালক",
+      "department_name": "Information & Counseling Office",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "info-006",
+      "name": "মো. আবুল কাশেম খান",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Information & Counseling Office",
+      "blood_group": "O+",
+      "phone_number": "+8801982082018",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "info-007",
+      "name": "আশরাফ আহাম্মদ খান",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Information & Counseling Office",
+      "blood_group": "O+",
+      "phone_number": "+8801819159091",
+      "email": "ashrafkhan2721971@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "info-008",
+      "name": "খন্দকার মো. রুহুল আমিন",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Information & Counseling Office",
+      "blood_group": "O+",
+      "phone_number": "+8801715577289",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "info-009",
+      "name": "মো. সামছুল আলম",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Information & Counseling Office",
+      "blood_group": "O+",
+      "phone_number": "+8801718602773",
+      "email": "samsulalam07021978@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "info-010",
+      "name": "মো. সরফুল ইসলাম",
+      "designation": "সাব-টেকনিক্যাল অফিসার",
+      "department_name": "Information & Counseling Office",
+      "blood_group": "O+",
+      "phone_number": "+8801727620825",
+      "email": "shorful.islam@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "info-011",
+      "name": "হাফিজুর রহমান",
+      "designation": "সিনিয়র ক্যামেরাম্যান",
+      "department_name": "Information & Counseling Office",
+      "blood_group": "O+",
+      "phone_number": "+8801682827676",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "info-012",
+      "name": "মোসাঃ নুসরাত জাহান স্বর্ণা",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Information & Counseling Office",
+      "blood_group": "O+",
+      "phone_number": "+8801315552304",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "info-013",
+      "name": "অসীম চন্দ্র রায়",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Information & Counseling Office",
+      "blood_group": "O+",
+      "phone_number": "+8801865613591",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    }
+  ]
 }
 ]
