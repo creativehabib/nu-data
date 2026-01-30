@@ -2492,21 +2492,771 @@
   ]
 },
   {
-    "id": "finance",
-    "name": "Finance & Accounts",
-    "employees": [
-      {
-        "id": "fin-001",
-        "name": "Ms. Nusrat Jahan",
-        "designation": "Chief Accounts Officer",
-        "department_name": "Finance & Accounts",
-        "blood_group": "B-",
-        "phone_number": "+8801711000005",
-        "email": "accounts@nu.edu.bd",
-        "home_district": "Sylhet"
-      }
-    ]
-  },
+  "id": "finance-accounts",
+  "name": "Finance & Accounts Department",
+  "employees": [
+    {
+      "id": "finance-001",
+      "name": "Alauddin Ahmed",
+      "designation": "Director, Finance & Accounts",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801534571000",
+      "email": "alauddin.nu1965@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-002",
+      "name": "মোঃ মোজাহারুল ইসলাম",
+      "designation": "উপ-পরিচালক [হিসাব শাখা ]",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801730166851",
+      "email": "Mozaharul.islam@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-003",
+      "name": "মোঃ সোলায়মান আকন",
+      "designation": "উপ-পরিচালক [পারিতোষিক বিল]",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801712198552",
+      "email": "ksakon71@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-004",
+      "name": "শেখ মুহাম্মদ মুফাজ্জল হুসাইন",
+      "designation": "উপ-পরিচালক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801912906294",
+      "email": "mufazzalnu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-005",
+      "name": "A.K.M. Firoz",
+      "designation": "Deputy Director [Revenue Section]",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801711182533",
+      "email": "akm.firoz@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-006",
+      "name": "মোঃ আব্দুল হামিদ মোল্লা",
+      "designation": "উপ-পরিচালক [বেতন শাখা]",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801556325169",
+      "email": "ahmolla71@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-007",
+      "name": "মোঃ আজিজুর রহমান",
+      "designation": "উপ-পরিচালক [পেনশন শাখা]",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801732434010",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-008",
+      "name": "হুমায়ুন কবীর",
+      "designation": "সিস্টেম এনালিস্ট [আইটি সাপোর্ট শাখা]",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801717037766",
+      "email": "kabir.erp@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-009",
+      "name": "অমর কুমার পাল",
+      "designation": "উপ-পরিচালক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801627258237",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-010",
+      "name": "মোহাম্মদ আব্দুল মালেক",
+      "designation": "উপ-পরিচালক [গৃহ নির্মাণ ঋণ শাখা]",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801747159852",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-011",
+      "name": "মুহাম্মদ আতিকুল ইসলাম",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801715580396",
+      "email": "atiksarker51@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-012",
+      "name": "অসীম কুমার দেবনাথ",
+      "designation": "সহকারী পরিচালক (কম্পিউটার)",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801712060451",
+      "email": "asimnath21@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-013",
+      "name": "রফিকুল ইসলাম ফকির",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801712212282",
+      "email": "rafiqulislamad4073@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-014",
+      "name": "দেবব্রত পাল",
+      "designation": "সহকারী পরিচালক (কম্পিউটার)",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801718333039",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-015",
+      "name": "ফিরোজ রশীদ",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801552461741",
+      "email": "firoz.rashid@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-016",
+      "name": "শামীমা আক্তার পারভীন",
+      "designation": "সহকারী পরিচালক (কম্পিউটার)",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801816589352",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-017",
+      "name": "মোঃ রফিকুল ইসলাম",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-018",
+      "name": "Afroza Khatun",
+      "designation": "Assistant Director (Salary Section)",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801778007487",
+      "email": "afrozaparvej77@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-019",
+      "name": "মোঃ আব্দুর রাশীদ",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801750080684",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-020",
+      "name": "মোসাঃ সাবেকুন্নাহার আকন",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "salarynu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-021",
+      "name": "মোঃ মিজানুর রহমান",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801711384203",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-022",
+      "name": "Miskat Fouzia Afrin",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-023",
+      "name": "রেজওয়ান সিদ্দিকী",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801610094245",
+      "email": "rezwan.siddique@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-024",
+      "name": "আরিফ মুহম্মদ সাদরুল উলা",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801711168820",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-025",
+      "name": "শুভ্রা রাণী",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801716546679",
+      "email": "shuvra.rani@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-026",
+      "name": "শারমীন আক্তার",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801779056057",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-027",
+      "name": "মোঃ ইকবাল আলী",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801918643033",
+      "email": "iqbal.ali@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-028",
+      "name": "মোঃ মাহফুজুর রহমান",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801715909211",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-029",
+      "name": "মুঃ রফিকুল ইসলাম",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801964681643",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-030",
+      "name": "আহাম্মাদুল হক",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801712140300",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-031",
+      "name": "সিনথিয়া আফরিন",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801677189423",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-032",
+      "name": "মোস্তাফিজুর রহমান",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801778210451",
+      "email": "mostafizur.rahaman@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-033",
+      "name": "মোঃ কামরুজ্জামান",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801918907935",
+      "email": "md.kamruzzaman@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-034",
+      "name": "মোঃ মোজাম্মেল হক",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801673137528",
+      "email": "haque1.bd@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-035",
+      "name": "মোস্তাফিজুর রহমান",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801724007134",
+      "email": "mostafijur.rahman@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-036",
+      "name": "মোঃ লিমন মিয়া",
+      "designation": "সাব-টেকনিক্যাল অফিসার",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801517807881",
+      "email": "liman.miah@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-037",
+      "name": "হরিপদ দাস",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801722439933",
+      "email": "hpbijoy33@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-038",
+      "name": "মোঃ কবির হোসেন",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801811789725",
+      "email": "kabir.hossain2@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-039",
+      "name": "রওশন জাহান",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801911636616",
+      "email": "rawsha1986@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-040",
+      "name": "মোঃ কাজী আকতার হোসেন",
+      "designation": "পিএ টু ভাইস-চ্যান্সেলর",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-041",
+      "name": "ঊর্মিলা দেবী",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801913092451",
+      "email": "debiurmila1986@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-042",
+      "name": "চৈতালী বসু",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-043",
+      "name": "এইচ এম রানা",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801521437844",
+      "email": "hm.rana@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-044",
+      "name": "মো: ফরহাদ হোসেন",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801687711370",
+      "email": "forhad.hossain@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-045",
+      "name": "মোঃ মোশাররফ হোসেন",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801625653364",
+      "email": "mosharrof.nu15@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-046",
+      "name": "শাহীন আলম",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801738090139",
+      "email": "shahin.alam2@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-047",
+      "name": "রোকসানা বেগম",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801714388457",
+      "email": "rukshana.begum@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-048",
+      "name": "সাইফুল ইসলাম",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801724371970",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-049",
+      "name": "শাম্মী আক্তার",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-050",
+      "name": "মোঃ নুরুন্নবী",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801819525633",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-051",
+      "name": "মোঃ হাসান আলী",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801716915616",
+      "email": "hasan.ali2@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-052",
+      "name": "মোঃ আলী হোসেন",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "ali.hossain1@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-053",
+      "name": "মোসাঃ জান্নাতুল নাঈমা",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801745694528",
+      "email": "jannatul.naeema@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-054",
+      "name": "নাজমুন্নাহার",
+      "designation": "অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-055",
+      "name": "মোহাম্মদ সোহেল মিয়া",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801919168081",
+      "email": "shohel.mian@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-056",
+      "name": "মোঃ দেলোয়ার হোসেন",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801715456155",
+      "email": "delwarbdnu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-057",
+      "name": "মোঃ মেহবুব হায়দার",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-058",
+      "name": "মোহাম্মদ ফাইজুল হক",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801936112219",
+      "email": "faizulhaque.nu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-059",
+      "name": "মোঃ অহিদুজ্জামান মজুমদার",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801749083535",
+      "email": "oheduzzaman87nu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-060",
+      "name": "এস, এম, রুবেল",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801625360480",
+      "email": "sm.rubel@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-061",
+      "name": "নির্মল সূত্রধর",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801731140882",
+      "email": "nu.nirmol@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-062",
+      "name": "মোঃ জানে আলম প্রাং",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-063",
+      "name": "ফারুক পাটোয়ারী",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-064",
+      "name": "মোঃ অলি আহমেদ",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801727743099",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-065",
+      "name": "সোমা খানম",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "iamsumakhanam@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-066",
+      "name": "মোঃ আসাদুজ্জামান খন্দকার",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801712909807",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-067",
+      "name": "টিটু চৌধুরী",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801629844485",
+      "email": "titu.chowdhury71@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-068",
+      "name": "মো আবির হোসেন",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "+8801766814462",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-069",
+      "name": "প্যারিশ মন্ডল",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-070",
+      "name": "শিল্পী আকতার",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-071",
+      "name": "মোঃ সোহেল রানা",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-072",
+      "name": "নাজমা বেগম",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-073",
+      "name": "মোঃ আরশ আলী",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-074",
+      "name": "মিজানুর রহমান",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-075",
+      "name": "সঞ্জয় চন্দ্র পাল",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "finance-076",
+      "name": "মোঃ সোহেল রানা",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Finance & Accounts",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    }
+  ]
+},
   {
     "id": "ict",
     "name": "ICT Cell",
