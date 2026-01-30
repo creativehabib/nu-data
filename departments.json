@@ -5618,5 +5618,131 @@
       "home_district": "Dhaka"
     }
   ]
+},
+  {
+  "id": "public-relations",
+  "name": "আঞ্চলিক কেন্দ্র সমন্বয় দপ্তর",
+  "employees": [
+    {
+      "id": "pr-001",
+      "name": "নাজিম উদ্দিন আহমেদ",
+      "designation": "পরিচালক (ভারপ্রাপ্ত)",
+      "department_name": "Public Relations Office",
+      "blood_group": "O+",
+      "phone_number": "+8801713032432",
+      "email": "nuas00@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "pr-002",
+      "name": "মোঃ আনোয়ার হোসেন",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Public Relations Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711909880",
+      "email": "anwarhossain.nu.edu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "pr-003",
+      "name": "মোহাম্মদ মাসুদ রানা",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Public Relations Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711113270",
+      "email": "rana15031971@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "pr-004",
+      "name": "মোঃ মাসুম হোসেন",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Public Relations Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712729424",
+      "email": "masumhossen2004@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "pr-005",
+      "name": "আবুল কাশেম",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Public Relations Office",
+      "blood_group": "O+",
+      "phone_number": "+8801739765629",
+      "email": "akashem.amc@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "pr-006",
+      "name": "মোহাম্মদ আলী হায়দার খান",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Public Relations Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712636321",
+      "email": "a.haider012@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "pr-007",
+      "name": "মোহাম্মদ রুহুল আমিন",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Public Relations Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712347717",
+      "email": "tahsinbd@yahoo.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "pr-008",
+      "name": "মোহাম্মদ মাহফুজুর রহমান",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "Public Relations Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712879093",
+      "email": "mahfuznu94@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "pr-009",
+      "name": "গোলাম আজম",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "Public Relations Office",
+      "blood_group": "O+",
+      "phone_number": "+8801759602080",
+      "email": "gaazam75@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "pr-010",
+      "name": "মোঃ আবু তাহের",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Public Relations Office",
+      "blood_group": "O+",
+      "phone_number": "+8801714857267",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "pr-011",
+      "name": "মোঃ আলামিন",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Public Relations Office",
+      "blood_group": "O+",
+      "phone_number": "+8801744482061",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "pr-012",
+      "name": "মোঃ শাহীন সরদার",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Public Relations Office",
+      "blood_group": "O+",
+      "phone_number": "+8801716005984",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    }
+  ]
 }
 ]
