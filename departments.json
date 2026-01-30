@@ -4996,5 +4996,481 @@
       "home_district": "Dhaka"
     }
   ]
+},
+  {
+  "id": "engineering-department",
+  "name": "Engineering Department",
+  "employees": [
+    {
+      "id": "engineering-001",
+      "name": "মোঃ মিজানুর রহমান",
+      "designation": "প্রধান প্রকৌশলী",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801714048724",
+      "email": "mizan02@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-002",
+      "name": "মুহম্মদ রনজু আহমেদ",
+      "designation": "উপ-পরিচালক",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801718797790",
+      "email": "bdranzu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-003",
+      "name": "মোঃ রাজিব হোসেন",
+      "designation": "নির্বাহী প্রকৌশলী",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801717515476",
+      "email": "razib.hossain@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-004",
+      "name": "মোঃ শফিকুল ইসলাম",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801722190325",
+      "email": "shaficul1968@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-005",
+      "name": "মোঃ ইছা হক",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801812270865",
+      "email": "mdishaque.nu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-006",
+      "name": "মোঃ মোশারাফ হোসেন",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801712672860",
+      "email": "mosharef67@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-007",
+      "name": "লক্ষন চন্দ্র দাস",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801673285214",
+      "email": "laxmon.chandra.das@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-008",
+      "name": "শান্তনু চৌধুরী",
+      "designation": "সহকারী প্রকৌশলী",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801812021398",
+      "email": "engshantoduet@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-009",
+      "name": "রওশন আরা বেগম",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801732438890",
+      "email": "ariful.haque@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-010",
+      "name": "মোঃ আবুল কালাম আজাদ",
+      "designation": "সেকশন অফিসার",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801748933289",
+      "email": "azadabulkalam0044@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-011",
+      "name": "অলিউল্লাহ",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801921437875",
+      "email": "aulibd@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-012",
+      "name": "মোঃ হেলালুজ্জামান",
+      "designation": "উপ-সহকারী প্রকৌশলী",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801719695626",
+      "email": "engr.helal.nu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-013",
+      "name": "টুলটুল রাম রায়",
+      "designation": "উপ-সহকারী প্রকৌশলী",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801719464149",
+      "email": "engrr.tultul@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-014",
+      "name": "মোঃ রফিকুল ইসলাম",
+      "designation": "উপ-সহকারী প্রকৌশলী",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801712954231",
+      "email": "rafiq.engrr@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-015",
+      "name": "মোঃ আশরাফ-উজ-জামান",
+      "designation": "ড্রাফটসম্যান",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801724834672",
+      "email": "engr.ashraf.nu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-016",
+      "name": "মোঃ আমিনুল ইসলাম",
+      "designation": "উপ-সহকারী প্রকৌশলী",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801911140630",
+      "email": "engr.aminul.nu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-017",
+      "name": "মোঃ নায়েব আলী খান",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801735729374",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-018",
+      "name": "মোঃ কামাল হোসেন",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801721305956",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-019",
+      "name": "কামরুজ্জামান",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801913560555",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-020",
+      "name": "মোসাঃ ইসমত আরা",
+      "designation": "টেলিফোন অপারেটর",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801921947798",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-021",
+      "name": "মোঃ আব্দুল মতিন খাঁন",
+      "designation": "ইলেকট্রিক্যাল সুপারভাইজার",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801712279629",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-022",
+      "name": "মোঃ আঃ রশিদ",
+      "designation": "প্লাম্বার",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801718062069",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-023",
+      "name": "মিজানুর রহমান",
+      "designation": "ইলেকট্রিশিয়ান",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801720609772",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-024",
+      "name": "শাহীন দেওয়ান",
+      "designation": "ইলেকট্রিশিয়ান",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801936317324",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-025",
+      "name": "আশীষ সমদ্দার",
+      "designation": "প্লাম্বার",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801718431230",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-026",
+      "name": "সুমন হোসেন",
+      "designation": "প্লাম্বার",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801731800196",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-027",
+      "name": "মোঃ ফরহাদ হোসেন",
+      "designation": "এয়ারকুলার টেকনিশিয়ান",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801911212325",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-028",
+      "name": "মোঃ মহিবুল ইসলাম",
+      "designation": "এয়ারকুলার টেকনিশিয়ান",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801772000185",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-029",
+      "name": "মোঃ রশিদুল ইসলাম",
+      "designation": "প্লাম্বার হেলপার",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801756968897",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-030",
+      "name": "মোঃ ফরিদ আলী",
+      "designation": "সহকারী ইলেকট্রিশিয়ান",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801712563639",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-031",
+      "name": "জহুরুল ইসলাম",
+      "designation": "সহকারী ইলেকট্রিশিয়ান",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801712699536",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-032",
+      "name": "মোঃ আইনুল ইসলাম",
+      "designation": "বৈদ্যুতিক সাব-স্টেশন কেয়ারটেকার",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+880191598586",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-033",
+      "name": "মোঃ আঃ আজিজ পাটোয়ারী",
+      "designation": "লিফটম্যান",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801717262642",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-034",
+      "name": "উত্তম চন্দ্র দেবনাথ",
+      "designation": "লিফটম্যান",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801819501387",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-035",
+      "name": "খন্দকার মোঃ আরিফুর রহমান",
+      "designation": "লিফটম্যান",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801729160209",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-036",
+      "name": "মোঃ ইসমাইল হোসেন",
+      "designation": "লিফটম্যান",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801727764884",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-037",
+      "name": "মোঃ বেলাল হোসেন",
+      "designation": "লিফটম্যান",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801861137823",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-038",
+      "name": "মোঃ মিজানুর রহমান",
+      "designation": "লিফটম্যান",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801818973842",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-039",
+      "name": "মোঃ নয়ন হোসেন",
+      "designation": "লিফটম্যান",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801724974473",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-040",
+      "name": "নজরুল হাওলাদার",
+      "designation": "লিফটম্যান",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801751716318",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-041",
+      "name": "মোঃ রাজীব ভূইয়া",
+      "designation": "লিফটম্যান",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801724974473",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-042",
+      "name": "মোঃ আঃ কাদের",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801710543858",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-043",
+      "name": "মোঃ সেকেন্দার আলী",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801727919041",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-044",
+      "name": "মোঃ পাপন মিয়া",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801687718095",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-045",
+      "name": "মোঃ সাদেকুল ইসলাম",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801757408616",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-046",
+      "name": "মোঃ মোস্তফা কামাল",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801921342296",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "engineering-047",
+      "name": "মোঃ জাহাঙ্গীর আলম",
+      "designation": "অফিস সহায়ক",
+      "department_name": "Engineering Department",
+      "blood_group": "O+",
+      "phone_number": "+8801871857623",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    }
+  ]
 }
 ]
