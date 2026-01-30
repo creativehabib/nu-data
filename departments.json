@@ -3793,42 +3793,172 @@
     }
   ]
 },
-  {
-    "id": "discipline",
-    "name": "Discipline & Security Department",
-    "employees": [
-      {
-        "id": "disc-001",
-        "name": "Muhammad Kamal Hasan",
-        "designation": "Director",
-        "department_name": "Discipline & Security Department",
-        "blood_group": "A+",
-        "phone_number": "+880171100000",
-        "email": "discipline.director@nu.edu.bd",
-        "home_district": "Dhaka"
-      },
-      {
-        "id": "disc-002",
-        "name": "Rajaur Rahman Miah",
-        "designation": "Proctor",
-        "department_name": "Discipline & Security Department",
-        "blood_group": "B+",
-        "phone_number": "+88017110000",
-        "email": "deputy.discipline@nu.edu.bd",
-        "home_district": "Cumilla"
-      },
-      {
-        "id": "disc-003",
-        "name": "Habibur Rahaman",
-        "designation": "Administrative Officer",
-        "department_name": "Discipline & Security Department",
-        "blood_group": "O+",
-        "phone_number": "+8801914120688",
-        "email": "habibur.rahman2@nu.ac.bd",
-        "home_district": "Sherpur"
-      }
-    ]
-  },
+{
+  "id": "discipline",
+  "name": "Discipline & Security Department",
+  "employees": [
+    {
+      "id": "proctor-001",
+      "name": "S. M. Masud Rana",
+      "designation": "Director",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801713-037949, +8801711-634476",
+      "email": "proctor@nu.ac.bd, masud.rana@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proctor-002",
+      "name": "Md. Salah Uddin",
+      "designation": "Assistant Proctor",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801713-015486",
+      "email": "salah.uddin1@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proctor-003",
+      "name": "Raihan Uddin Khan",
+      "designation": "Assistant Proctor",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801788-053013",
+      "email": "khanraihan.1985@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proctor-004",
+      "name": "Nazrul Islam",
+      "designation": "Assistant Proctor",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801554-480486",
+      "email": "nazrul.islam7@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proctor-005",
+      "name": "Md. Mamun Al Islam",
+      "designation": "Administrative Officer",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801729-640139",
+      "email": "mamun.alislam@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proctor-006",
+      "name": "Md. Rasel Hossain",
+      "designation": "Upper Division Assistant",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801533-832531",
+      "email": "rasel.hossain@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proctor-007",
+      "name": "Md. Rofiqul Islam",
+      "designation": "Office Assistant",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801787-288819",
+      "email": "rofiqul.nu10@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proctor-008",
+      "name": "Md. Hossain Ali",
+      "designation": "Office Assistant",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801886-711612",
+      "email": "mdjonie5566@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proctor-009",
+      "name": "Robel Hossen",
+      "designation": "Office Assistant",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801862-249009",
+      "email": "robelhossen202@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proctor-010",
+      "name": "Litan Dhali",
+      "designation": "Office Assistant",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801752-641778",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proctor-011",
+      "name": "Md. Liton Mia",
+      "designation": "Security Guard",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801714-834867",
+      "email": "litonmiam156@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proctor-012",
+      "name": "Md. Alamgir",
+      "designation": "Security Guard",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801781-719376",
+      "email": "alamgir1719376@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proctor-013",
+      "name": "Md. Jamal Hossain Kholifa",
+      "designation": "Security Guard",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801974-297511",
+      "email": "khalifajamal839@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proctor-014",
+      "name": "Mohammad Dulal",
+      "designation": "Security Guard",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801742-319193",
+      "email": "dulalhossain4403@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proctor-015",
+      "name": "Zivon Miah",
+      "designation": "Security Guard",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801841-221165",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proctor-016",
+      "name": "Konok Rahi",
+      "designation": "Security Guard",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801717-897117",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    }
+  ]
+},
   {
   "id": "college-inspection",
   "name": "College Inspection Office",
