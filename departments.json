@@ -6106,5 +6106,161 @@
       "home_district": "Dhaka"
     }
   ]
+},
+  {
+  "id": "cmes-department",
+  "name": "College Monitoring and Evaluation System (CMES)",
+  "employees": [
+    {
+      "id": "cmes-001",
+      "name": "মোহাম্মদ শফিউল করিম",
+      "designation": "পরিচালক",
+      "department_name": "College Monitoring and Evaluation System (CMES)",
+      "blood_group": "O+",
+      "phone_number": "+8801715330165",
+      "email": "karimshafiq1975@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "cmes-002",
+      "name": "মোঃ ইব্রাহীম খলীল",
+      "designation": "উপ-পরিচালক",
+      "department_name": "College Monitoring and Evaluation System (CMES)",
+      "blood_group": "O+",
+      "phone_number": "+8801712810670",
+      "email": "mikhalil1374@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "cmes-003",
+      "name": "স্বর্ণময়ী সাহা",
+      "designation": "উপ-পরিচালক",
+      "department_name": "College Monitoring and Evaluation System (CMES)",
+      "blood_group": "O+",
+      "phone_number": "+8801711586712",
+      "email": "swarnomayeesaha@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "cmes-004",
+      "name": "মোঃ রেজাউল ইসলাম",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "College Monitoring and Evaluation System (CMES)",
+      "blood_group": "O+",
+      "phone_number": "+8801712080714",
+      "email": "rejaulislam0807@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "cmes-005",
+      "name": "মোহাম্মদ কামাল উদ্দিন আহমেদ",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "College Monitoring and Evaluation System (CMES)",
+      "blood_group": "O+",
+      "phone_number": "+8801991954044",
+      "email": "kamalmednubd@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "cmes-006",
+      "name": "মোঃ সুজাউদ্দৌলা",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "College Monitoring and Evaluation System (CMES)",
+      "blood_group": "O+",
+      "phone_number": "+8801818731473",
+      "email": "sujauddoulanu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "cmes-007",
+      "name": "কাজী মোঃ ওয়ালী উল্ল্যাহ্",
+      "designation": "সেকশন অফিসার",
+      "department_name": "College Monitoring and Evaluation System (CMES)",
+      "blood_group": "O+",
+      "phone_number": "+8801678399806",
+      "email": "wali.ullah69@yahoo.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "cmes-008",
+      "name": "সাফায়েত আহম্মদ",
+      "designation": "সেকশন অফিসার",
+      "department_name": "College Monitoring and Evaluation System (CMES)",
+      "blood_group": "O+",
+      "phone_number": "+8801553374537",
+      "email": "ahmmadshafayet@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "cmes-009",
+      "name": "মোঃ মামুন মিয়া",
+      "designation": "সেকশন অফিসার",
+      "department_name": "College Monitoring and Evaluation System (CMES)",
+      "blood_group": "O+",
+      "phone_number": "+8801729811966",
+      "email": "thmmamun@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "cmes-010",
+      "name": "মোঃ মিজানুর রহমান",
+      "designation": "সাব-টেকনিক্যাল অফিসার",
+      "department_name": "College Monitoring and Evaluation System (CMES)",
+      "blood_group": "O+",
+      "phone_number": "+8801721440152",
+      "email": "shepu.mmr@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "cmes-011",
+      "name": "মোঃ খলিলুর রহমান আকন",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "College Monitoring and Evaluation System (CMES)",
+      "blood_group": "O+",
+      "phone_number": "+8801716858139",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "cmes-012",
+      "name": "আফরোজ আহমেদ",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "College Monitoring and Evaluation System (CMES)",
+      "blood_group": "O+",
+      "phone_number": "+8801757679770",
+      "email": "afruz.ahmed@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "cmes-013",
+      "name": "মোঃ মজিবর রহমান",
+      "designation": "অফিস সহায়ক",
+      "department_name": "College Monitoring and Evaluation System (CMES)",
+      "blood_group": "O+",
+      "phone_number": "+8801852670172",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "cmes-014",
+      "name": "সালমা আক্তার",
+      "designation": "অফিস সহায়ক",
+      "department_name": "College Monitoring and Evaluation System (CMES)",
+      "blood_group": "O+",
+      "phone_number": "+8801855959985",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "cmes-015",
+      "name": "মোঃ শহিদুল ইসলাম",
+      "designation": "অফিস সহায়ক",
+      "department_name": "College Monitoring and Evaluation System (CMES)",
+      "blood_group": "O+",
+      "phone_number": "+8801716543470",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    }
+  ]
 }
 ]
