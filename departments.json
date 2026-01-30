@@ -3830,41 +3830,631 @@
     ]
   },
   {
-    "id": "college",
-    "name": "Department of College Inspection",
-    "employees": [
-      {
-        "id": "disc-001",
-        "name": "Nazim Uddin",
-        "designation": "Director",
-        "department_name": "Department of College Inspection",
-        "blood_group": "A+",
-        "phone_number": "+880171100000",
-        "email": "college.inspection@nu.ac.bd",
-        "home_district": "Dhaka"
-      },
-      {
-        "id": "disc-002",
-        "name": "Sana Ullah",
-        "designation": "Additional College Inspector",
-        "department_name": "Department of College Inspection",
-        "blood_group": "O+",
-        "phone_number": "+88017110000",
-        "email": "sana.ullah@nu.ac.bd",
-        "home_district": "Gazipur"
-      },
-      {
-        "id": "disc-003",
-        "name": "Habibur Rahaman",
-        "designation": "Administrative Officer",
-        "department_name": "Discipline & Security Department",
-        "blood_group": "O+",
-        "phone_number": "+8801914120688",
-        "email": "habibur.rahman2@nu.ac.bd",
-        "home_district": "Sherpur"
-      }
-    ]
-  },
+  "id": "college-inspection",
+  "name": "College Inspection Office",
+  "employees": [
+    {
+      "id": "col-insp-001",
+      "name": "মোঃ আব্দুল হাই সিদ্দিক সরকার",
+      "designation": "কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711563400",
+      "email": "ahszinnah@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-002",
+      "name": "মোঃ সানাউল্লাহ মিঞা",
+      "designation": "অতিরিক্ত কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "sanaullah.mian@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-003",
+      "name": "সৈয়দা সায়েরা সুলতানা",
+      "designation": "উপ-কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801765591173",
+      "email": "sayerasultana.nubd@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-004",
+      "name": "গোলাম ফারুক",
+      "designation": "উপ-কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801716042405",
+      "email": "golamfarouqe@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-005",
+      "name": "মোঃ মোখলেছুর রহমান",
+      "designation": "উপ-কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712970207",
+      "email": "mmrahmanpr@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-006",
+      "name": "আশুতোষ দেওয়ান",
+      "designation": "উপ-কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801715022771",
+      "email": "ashutosh.dewan@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-007",
+      "name": "মোঃ সোয়েব আহমেদ",
+      "designation": "উপ-কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711907425",
+      "email": "shouyeb99@yahoo.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-008",
+      "name": "মোঃ শাহীন আক্তার",
+      "designation": "উপ-কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711958170",
+      "email": "mdshahinakter37@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-009",
+      "name": "শেখ মোঃ আহসান উল্যাহ",
+      "designation": "উপ-কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712285018",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-010",
+      "name": "মোঃ আতাউর রহমান",
+      "designation": "উপ-কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801715342254",
+      "email": "ataurrrahman01715342254@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-011",
+      "name": "মোঃ রাশেদুল হক",
+      "designation": "সহঃ কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711471340",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-012",
+      "name": "নাছিমা বেগম",
+      "designation": "সহঃ কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801719335649",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-013",
+      "name": "মোসাঃ ইয়াসমিন নাহার",
+      "designation": "সহঃ কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801716850594",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-014",
+      "name": "জুলিয়েট সরকার",
+      "designation": "সহঃ কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801557326357",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-015",
+      "name": "সুজীবন চাকমা",
+      "designation": "সহঃ কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801827824048",
+      "email": "sujibonchakma11111@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-016",
+      "name": "মোঃ মোকছেদুল ইসলাম",
+      "designation": "সহঃ কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801740338341",
+      "email": "moksedulislam1975@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-017",
+      "name": "উম্মে কুলসুম আরা",
+      "designation": "সহঃ কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801716964605",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-018",
+      "name": "নুরুল হুদা",
+      "designation": "সহঃ কলেজ পরিদর্শক (কম্পিঃ)",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801674606291",
+      "email": "nurulhudachapal@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-019",
+      "name": "নূর মোহাম্মদ সরদার",
+      "designation": "সহঃ কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801690267196",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-020",
+      "name": "মোঃ ইসমাইল হোসেন",
+      "designation": "সহঃ কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801717827741",
+      "email": "ismail01573@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-021",
+      "name": "মোঃ আব্দুল মজিদ",
+      "designation": "সহঃ কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712873127",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-022",
+      "name": "মোঃ তফাজ্জল হোসেন",
+      "designation": "সহঃ কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711206424",
+      "email": "taffzzal1973@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-023",
+      "name": "মোঃ মজিবুর রহমান",
+      "designation": "সহঃ কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801818248436",
+      "email": "moziburrahmanbabu475@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-024",
+      "name": "মোঃ জোবায়দুল হক",
+      "designation": "সহঃ কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801756992544",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-025",
+      "name": "মুঃ নূরুল ইসলাম",
+      "designation": "সহঃ কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712063623",
+      "email": "nurulislamnu1967@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-026",
+      "name": "মোঃ শামছুল হক",
+      "designation": "সহঃ কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712123558",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-027",
+      "name": "মোঃ আব্দুল বারিক মোল্লা",
+      "designation": "সহঃ কলেজ পরিদর্শক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711780105",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-028",
+      "name": "মোঃ আবুল কালাম আজাদ",
+      "designation": "সেকশন অফিসার",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801552323090",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-029",
+      "name": "রাইয়ান বিনতে ইউনুছ",
+      "designation": "সেকশন অফিসার",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801928087606",
+      "email": "ryankajol@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-030",
+      "name": "শারমিন আক্তার",
+      "designation": "সেকশন অফিসার",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801798703882",
+      "email": "imshanta35@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-031",
+      "name": "মাহামুদুর হাবিববুল্লাহ",
+      "designation": "সেকশন অফিসার",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801740592896",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-032",
+      "name": "মোঃ মুখলেছুর রহমান",
+      "designation": "সেকশন অফিসার",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801719644133",
+      "email": "mukles1986@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-033",
+      "name": "মোহাম্মদ তোফাজ্জল হোসেন",
+      "designation": "সেকশন অফিসার",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801913878646",
+      "email": "tufazzal.hossan@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-034",
+      "name": "আ. ন. ম. আব্দুল হামিদ",
+      "designation": "সেকশন অফিসার",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711422115",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-035",
+      "name": "আনিসুর রহমান",
+      "designation": "সাব-টেকনিক্যাল অফিসার",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801710008036",
+      "email": "anisurrnu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-036",
+      "name": "ফাতেমা ইয়াসমিন",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801778821113",
+      "email": "fatemayeasmin06@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-037",
+      "name": "কাজী আওলাদ হোসেন",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801752532320",
+      "email": "kazilittu11@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-038",
+      "name": "হাবিবুর রহমান",
+      "designation": "প্রশাসনিক কর্মকর্তা",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801914120688",
+      "email": "habibur.rahman2@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-039",
+      "name": "ইমরান মাহমুদ",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801738083599",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-040",
+      "name": "আফরোজা খন্দকার",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801920872635",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-041",
+      "name": "আফরোজা আক্তার",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801716873489",
+      "email": "atroza.akter2651985@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-042",
+      "name": "দুলালী খাতুন",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801764769197",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-043",
+      "name": "জহিরুল ইসলাম খান",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801710176796",
+      "email": "islamjahirul@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-044",
+      "name": "মোছাঃ আমেনা খাতুন",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801727896454",
+      "email": "aminakhatunnubd@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-045",
+      "name": "মোঃ ময়দুল ইসলাম",
+      "designation": "ডাটা এন্ট্রি অপারেটর",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712006196",
+      "email": "moydul.nubd@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-046",
+      "name": "নিকর চন্দ্র গাইন",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801721553650",
+      "email": "nikargain@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-047",
+      "name": "মোঃ মাহমুদুল হাসান",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801949239316",
+      "email": "sonetmiridha11111@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-048",
+      "name": "রনি মৃধা",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801676204024",
+      "email": "ronymridha2315@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-049",
+      "name": "মোহাম্মদ জাকির হোসেন",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801914913570",
+      "email": "zakirtipu9135@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-050",
+      "name": "সুব্রত দেওয়ান",
+      "designation": "উচ্চমান সহকারী",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801876607741",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-051",
+      "name": "মোঃ শাহীন আলম",
+      "designation": "অফিস সহায়ক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801937025966",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-052",
+      "name": "উম্মে ছালমা",
+      "designation": "অফিস সহায়ক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801628047948",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-053",
+      "name": "সৈয়দ মুহাম্মদ মিল্লাদ-বিন-ইউসুফ",
+      "designation": "অফিস সহায়ক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+880173420586",
+      "email": "smmilled@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-054",
+      "name": "মোঃ শামীম ভূইয়া",
+      "designation": "অফিস সহায়ক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801742720093",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-055",
+      "name": "মোঃ মামুনুর রশিদ",
+      "designation": "অফিস সহায়ক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801712084809",
+      "email": "mamunhoma077@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-056",
+      "name": "মোঃ আফতাব উদ্দিন",
+      "designation": "অফিস সহায়ক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801758307693",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-057",
+      "name": "মোঃ মনিরুল ইসলাম",
+      "designation": "অফিস সহায়ক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801855645641",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-058",
+      "name": "আক্তার হোসেন",
+      "designation": "অফিস সহায়ক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801910126909",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-059",
+      "name": "মোঃ জনাব আলী",
+      "designation": "অফিস সহায়ক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801721283571",
+      "email": "junabali@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-060",
+      "name": "হাসনা আক্তার",
+      "designation": "অফিস সহায়ক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801633522451",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-061",
+      "name": "মোঃ দুলাল মিয়া",
+      "designation": "অফিস সহায়ক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801715659696",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "col-insp-062",
+      "name": "মোঃ আলী নেওয়াজ রাজু",
+      "designation": "অফিস সহায়ক",
+      "department_name": "College Inspection Office",
+      "blood_group": "O+",
+      "phone_number": "+8801760284604",
+      "email": "rajus284604@gmail.com",
+      "home_district": "Dhaka"
+    }
+  ]
+},
   {
   "id": "internal-audit",
   "name": "Internal Audit Department",
