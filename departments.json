@@ -3368,31 +3368,431 @@
   ]
 },
   {
-    "id": "ict",
-    "name": "ICT Cell",
-    "employees": [
-      {
-        "id": "ict-001",
-        "name": "Mr. Imran Hossain",
-        "designation": "Director, ICT",
-        "department_name": "ICT Cell",
-        "blood_group": "A-",
-        "phone_number": "+8801711000006",
-        "email": "ict.director@nu.edu.bd",
-        "home_district": "Rangpur"
-      },
-      {
-        "id": "ict-002",
-        "name": "Ms. Rokia Sultana",
-        "designation": "System Analyst",
-        "department_name": "ICT Cell",
-        "blood_group": "O-",
-        "phone_number": "+8801711000007",
-        "email": "system.analyst@nu.edu.bd",
-        "home_district": "Mymensingh"
-      }
-    ]
-  },
+  "id": "ict-cell",
+  "name": "ICT Cell",
+  "employees": [
+    {
+      "id": "ict-001",
+      "name": "মোঃ শাহনেওয়াজ",
+      "designation": "পরিচালক (ভারপ্রাপ্ত)",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8802996691571",
+      "email": "md.shahnewaz@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-002",
+      "name": "মোঃ বাহারুল ইসলাম",
+      "designation": "সিনিয়র প্রোগ্রামার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8802996692088",
+      "email": "baharul.islam@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-003",
+      "name": "মেজবাহুল আজম",
+      "designation": "সিনিয়র প্রোগ্রামার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801771104011",
+      "email": "mejbahul.azam@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-004",
+      "name": "মো: মনিরুল ইসলাম",
+      "designation": "সিনিয়র প্রোগ্রামার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801537392014",
+      "email": "manirul.islam@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-005",
+      "name": "হাসমিন আক্তার",
+      "designation": "উপ-পরিচালক",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "hashmin.aktar@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-006",
+      "name": "ড. মো. হায়দার আলী",
+      "designation": "সিস্টেম এনালিস্ট",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "hayder.ali@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-007",
+      "name": "মুঃ নাজিমুল হক",
+      "designation": "সিস্টেম এনালিস্ট",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801713313646",
+      "email": "nazimul.haque@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-008",
+      "name": "মোঃ মোবারক হোসেন",
+      "designation": "সিস্টেম এনালিস্ট",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801923508806",
+      "email": "mobarak.hossain@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-009",
+      "name": "বিপ্লব কুমার পাল",
+      "designation": "প্রোগ্রামার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801714355435",
+      "email": "biplab.paul@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-010",
+      "name": "মোঃ মোশারফ হোসেন",
+      "designation": "প্রোগ্রামার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801814843162",
+      "email": "mosharraf.hossain2@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-011",
+      "name": "জুলফিকার আহম্মেদ",
+      "designation": "সহকারী সিস্টেম এনালিস্ট",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801718665778",
+      "email": "zulfikar.ahmed@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-012",
+      "name": "মোঃ রেজাউল করিম",
+      "designation": "প্রোগ্রামার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801704740850",
+      "email": "rejaul.karim@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-013",
+      "name": "মোহাম্মদ বিল্লাল হোসেন",
+      "designation": "প্রোগ্রামার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801829774554",
+      "email": "billal.hossen@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-014",
+      "name": "মোঃ সাইফুর রহমান",
+      "designation": "প্রোগ্রামার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801822917717",
+      "email": "mdsaifur.rahman@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-015",
+      "name": "মুহাম্মাদ মানজুরুর রশীদ",
+      "designation": "প্রোগ্রামার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801737583859",
+      "email": "monjurur.rashid@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-016",
+      "name": "মোঃ ইউনুস হাসান",
+      "designation": "মেইনটেন্যান্স ইঞ্জিনিয়ার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801716179279",
+      "email": "eunus.hasan@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-017",
+      "name": "সঞ্জয় কুমার নাথ",
+      "designation": "মেইনটেন্যান্স ইঞ্জিনিয়ার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801712740366",
+      "email": "sonjoy.nath@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-018",
+      "name": "সামিনা সুলতানা",
+      "designation": "সহকারী পরিচালক (কম্পিউটার)",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801711191772",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-019",
+      "name": "মতিয়ার রহমান",
+      "designation": "সহকারী পরিচালক (কম্পিউটার)",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-020",
+      "name": "মোহাম্মদ জামাল খান",
+      "designation": "সহকারী পরিচালক (কম্পিউটার)",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801913592275",
+      "email": "zamal_khan77@yahoo.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-021",
+      "name": "মালেক চৌধুরী",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-022",
+      "name": "মুদুল রায়",
+      "designation": "সহকারী প্রোগ্রামার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801712146531",
+      "email": "mri_roy@yahoo.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-023",
+      "name": "ফারজানা ইসলাম জুঁই",
+      "designation": "সহকারী প্রোগ্রামার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801760124789",
+      "email": "farzana.islam@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-024",
+      "name": "শাকিল শিকদার",
+      "designation": "সহকারী প্রোগ্রামার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801731179819",
+      "email": "shakil.sikder@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-025",
+      "name": "সুবেল কান্তি নাথ",
+      "designation": "সহকারী প্রোগ্রামার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801840284948",
+      "email": "sobel.kanti@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-026",
+      "name": "মোঃ জিল্লুর রহমান",
+      "designation": "সহকারী মেইনটেন্যান্স ইঞ্জিঃ",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801716380022",
+      "email": "zs_rahman@yahoo.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-027",
+      "name": "আব্দুল্লাাহ ইউসুফ ঈমাম",
+      "designation": "সহকারী মেইনটেন্যান্স ইঞ্জিঃ",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801930623886",
+      "email": "bdnuame@yahoo.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-028",
+      "name": "মোঃ জিয়াউর রহমান",
+      "designation": "সেকশন অফিসার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801717166791",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-029",
+      "name": "মোছাঃ আসমা খাতুন",
+      "designation": "সেকশন অফিসার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801911916868",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-030",
+      "name": "মোঃ হামিদুর রহমান",
+      "designation": "সেকশন অফিসার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801955269853",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-031",
+      "name": "মোঃ আমিনুল ইসলাম",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801718641200",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-032",
+      "name": "মোঃ রাকিবুল হাসান",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801631444100",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-033",
+      "name": "মোঃ শামীম রেজা",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801670814564",
+      "email": "shamim.reza@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-034",
+      "name": "মোঃ রাশেদুল হায়দার রাসেল",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801815229363",
+      "email": "rashedul.haider@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-035",
+      "name": "শিপ্রা রানী দাস",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801917664919",
+      "email": "rani_duet@yahoo.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-036",
+      "name": "এ, কে, এম, মঞ্জিল আহামেদ",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801817069075",
+      "email": "manjil8084@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-037",
+      "name": "প্রহলাদ রায়",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801954328304",
+      "email": "prohlad.roy@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-038",
+      "name": "নাজমুল হুদা",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801987958210",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-039",
+      "name": "এইচ এম ইসরাফিল",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801913266616",
+      "email": "hm.israfil@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-040",
+      "name": "ঊষাতন চাকমা",
+      "designation": "টেকনিক্যাল অফিসার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801868108778",
+      "email": "ushatan.chakma@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-041",
+      "name": "সুমাইয়া বিথী",
+      "designation": "সাব-টেকনিক্যাল অফিসার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801768886648",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "ict-042",
+      "name": "মোঃ দিদার আলম",
+      "designation": "সাব-টেকনিক্যাল অফিসার",
+      "department_name": "ICT Cell",
+      "blood_group": "O+",
+      "phone_number": "+8801718915281",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    }
+  ]
+},
   {
     "id": "discipline",
     "name": "Discipline & Security Department",
