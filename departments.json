@@ -3809,6 +3809,16 @@
     },
     {
       "id": "proctor-002",
+      "name": "Rajaur Rahman Miah",
+      "designation": "প্রক্টর",
+      "department_name": "শৃঙ্খলা ও নিরাপত্তা দপ্তর",
+      "blood_group": "O+",
+      "phone_number": "+8801712017049",
+      "email": "rajaur.miah@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proctor-002",
       "name": "Md. Salah Uddin",
       "designation": "Assistant Proctor",
       "department_name": "Proctor Office",
