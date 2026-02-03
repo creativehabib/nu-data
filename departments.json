@@ -3799,12 +3799,12 @@
   "employees": [
     {
       "id": "proctor-001",
-      "name": "S. M. Masud Rana",
-      "designation": "Director",
-      "department_name": "Proctor Office",
+      "name": "মুহাম্মদ কামাল হাছান",
+      "designation": "পরিচালক (ভারপ্রাপ্ত)",
+      "department_name": "শৃঙ্খলা ও নিরাপত্তা দপ্তর",
       "blood_group": "O+",
-      "phone_number": "+8801713-037949, +8801711-634476",
-      "email": "proctor@nu.ac.bd, masud.rana@nu.ac.bd",
+      "phone_number": "+8801712975754",
+      "email": "kamalhassan.nu@gmail.com",
       "home_district": "Dhaka"
     },
     {
@@ -5749,6 +5749,16 @@
   "id": "library-office",
   "name": "Library Office",
   "employees": [
+    {
+      "id": "library-001",
+      "name": "S. M. Masud Rana",
+      "designation": "গ্রন্থাগারিক",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801713-037949, +8801711-634476",
+      "email": "proctor@nu.ac.bd, masud.rana@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
     {
       "id": "library-001",
       "name": "সৈয়দ আফজাল হোসেন",
