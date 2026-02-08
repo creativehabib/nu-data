@@ -3819,22 +3819,22 @@
     },
     {
       "id": "proctor-003",
-      "name": "Md. Salah Uddin",
-      "designation": "Assistant Proctor",
-      "department_name": "Proctor Office",
+      "name": "মো: সুমন রহমান",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "শৃঙ্খলা ও নিরাপত্তা দপ্তর",
       "blood_group": "O+",
-      "phone_number": "+8801713-015486",
-      "email": "salah.uddin1@nu.ac.bd",
+      "phone_number": "+8801711578335",
+      "email": "sumon.rahman@nu.ac.bd",
       "home_district": "Dhaka"
     },
     {
       "id": "proctor-004",
-      "name": "Raihan Uddin Khan",
-      "designation": "Assistant Proctor",
-      "department_name": "Proctor Office",
+      "name": "মো: সানিয়াত শমশের সোহেল",
+      "designation": "সহকারী পরিচালক",
+      "department_name": "শৃঙ্খলা ও নিরাপত্তা দপ্তর",
       "blood_group": "O+",
-      "phone_number": "+8801788-053013",
-      "email": "khanraihan.1985@gmail.com",
+      "phone_number": "+8801817522207",
+      "email": "saniyat.rahman@nu.ac.bd",
       "home_district": "Dhaka"
     },
     {
@@ -3847,8 +3847,38 @@
       "email": "nazrul.islam7@nu.ac.bd",
       "home_district": "Dhaka"
     },
-     {
+    {
       "id": "proctor-006",
+      "name": "মোহাম্মদ আলমগীর হোসেন",
+      "designation": "Assistant Proctor",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801711361376",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proctor-007",
+      "name": "খলিলুর রহমান",
+      "designation": "Assistant Proctor",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801677585200",
+      "email": "demo@nu.ac.bd",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "proctor-008",
+      "name": "তারেক রহমান",
+      "designation": "Assistant Proctor",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801611001060",
+      "email": "khanraihan.1985@gmail.com",
+      "home_district": "Dhaka"
+    },
+     {
+      "id": "proctor-009",
       "name": "Habibur Rahaman",
       "designation": "Administrative Officer",
       "department_name": "Proctor Office",
@@ -3858,7 +3888,7 @@
       "home_district": "Sherpur"
     },
     {
-      "id": "proctor-007",
+      "id": "proctor-010",
       "name": "Md. Mamun Al Islam",
       "designation": "Administrative Officer",
       "department_name": "Proctor Office",
@@ -5735,6 +5765,16 @@
     },
     {
       "id": "pr-010",
+      "name": "Raihan Uddin Khan",
+      "designation": "Section Officer",
+      "department_name": "Public Relation Office",
+      "blood_group": "O+",
+      "phone_number": "+8801788-053013",
+      "email": "khanraihan.1985@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "pr-010",
       "name": "মোঃ আবু তাহের",
       "designation": "অফিস সহায়ক",
       "department_name": "Public Relations Office",
@@ -5927,6 +5967,16 @@
       "blood_group": "O+",
       "phone_number": "+8801727-936601",
       "email": "m.abdullah.nu@gmail.com",
+      "home_district": "Dhaka"
+    },
+    {
+      "id": "library-016",
+      "name": "Md. Salah Uddin",
+      "designation": "Section Officer",
+      "department_name": "Library Office",
+      "blood_group": "O+",
+      "phone_number": "+8801713-015486",
+      "email": "salah.uddin1@nu.ac.bd",
       "home_district": "Dhaka"
     },
     {
