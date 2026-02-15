@@ -15,6 +15,11 @@
     "type": "Government/Executive Holiday"
   },
   {
+    "date": "2026-03-18",
+    "name": "ঈদুল ফিতর",
+    "type": "University Holiday"
+  },
+  {
     "date": "2026-03-19",
     "name": "Eid ul-Fitr Holiday (start)",
     "type": "Government/Executive Holiday"
@@ -38,6 +43,16 @@
     "date": "2026-03-23",
     "name": "Eid ul-Fitr Holiday",
     "type": "Government/Executive Holiday"
+  },
+  {
+    "date": "2026-03-24",
+    "name": "ঈদুল ফিতর",
+    "type": "University Holiday"
+  },
+  {
+    "date": "2026-03-25",
+    "name": "ঈদুল ফিতর",
+    "type": "University Holiday"
   },
   {
     "date": "2026-03-26",
