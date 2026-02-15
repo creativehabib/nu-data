@@ -90,6 +90,36 @@
     "type": "Government/Executive Holiday"
   },
   {
+    "date": "2026-7-12",
+    "name": "গ্রীষ্মকালীন ছুটি",
+    "type": "University Holiday"
+  },
+  {
+    "date": "2026-7-13",
+    "name": "গ্রীষ্মকালীন ছুটি",
+    "type": "University Holiday"
+  },
+  {
+    "date": "2026-7-14",
+    "name": "গ্রীষ্মকালীন ছুটি",
+    "type": "University Holiday"
+  },
+  {
+    "date": "2026-7-15",
+    "name": "গ্রীষ্মকালীন ছুটি",
+    "type": "University Holiday"
+  },
+  {
+    "date": "2026-7-16",
+    "name": "গ্রীষ্মকালীন ছুটি",
+    "type": "University Holiday"
+  },
+  {
+    "date": "2026-7-17",
+    "name": "গ্রীষ্মকালীন ছুটি",
+    "type": "University Holiday"
+  },
+  {
     "date": "2026-08-05",
     "name": "July Mass Uprising Day",
     "type": "General Holiday"
@@ -140,7 +170,7 @@
     "type": "University Holiday"
   },
   {
-    "date": "2026-30",
+    "date": "2026-12-30",
     "name": "শীতকালীন ছুটি",
     "type": "University Holiday"
   },
