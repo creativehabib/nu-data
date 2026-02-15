@@ -1,0 +1,127 @@
+[
+  {
+    "date": "2026-02-04",
+    "name": "Shab-e-Barat",
+    "type": "Government/Executive Holiday"
+  },
+  {
+    "date": "2026-02-21",
+    "name": "Shaheed Day and International Mother Language Day",
+    "type": "General Holiday"
+  },
+  {
+    "date": "2026-03-17",
+    "name": "Shab-e-Qadr",
+    "type": "Government/Executive Holiday"
+  },
+  {
+    "date": "2026-03-19",
+    "name": "Eid ul-Fitr Holiday (start)",
+    "type": "Government/Executive Holiday"
+  },
+  {
+    "date": "2026-03-20",
+    "name": "Jumatul Bidah / Eid ul-Fitr Holiday",
+    "type": "General Holiday"
+  },
+  {
+    "date": "2026-03-21",
+    "name": "Eid ul-Fitr",
+    "type": "General Holiday"
+  },
+  {
+    "date": "2026-03-22",
+    "name": "Eid ul-Fitr Holiday",
+    "type": "Government/Executive Holiday"
+  },
+  {
+    "date": "2026-03-23",
+    "name": "Eid ul-Fitr Holiday",
+    "type": "Government/Executive Holiday"
+  },
+  {
+    "date": "2026-03-26",
+    "name": "Independence and National Day",
+    "type": "General Holiday"
+  },
+  {
+    "date": "2026-04-14",
+    "name": "Bangla New Year (Pohela Boishakh)",
+    "type": "Government/Executive Holiday"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "May Day / Buddha Purnima",
+    "type": "General Holiday"
+  },
+  {
+    "date": "2026-05-26",
+    "name": "Eid ul-Adha Holiday (start)",
+    "type": "Government/Executive Holiday"
+  },
+  {
+    "date": "2026-05-27",
+    "name": "Eid ul-Adha Holiday",
+    "type": "Government/Executive Holiday"
+  },
+  {
+    "date": "2026-05-28",
+    "name": "Eid ul-Adha",
+    "type": "General Holiday"
+  },
+  {
+    "date": "2026-05-29",
+    "name": "Eid ul-Adha Holiday",
+    "type": "Government/Executive Holiday"
+  },
+  {
+    "date": "2026-05-30",
+    "name": "Eid ul-Adha Holiday",
+    "type": "Government/Executive Holiday"
+  },
+  {
+    "date": "2026-05-31",
+    "name": "Eid ul-Adha Holiday",
+    "type": "Government/Executive Holiday"
+  },
+  {
+    "date": "2026-06-26",
+    "name": "Ashura",
+    "type": "Government/Executive Holiday"
+  },
+  {
+    "date": "2026-08-05",
+    "name": "July Mass Uprising Day",
+    "type": "General Holiday"
+  },
+  {
+    "date": "2026-08-26",
+    "name": "Eid-e-Milad-un-Nabi",
+    "type": "General Holiday"
+  },
+  {
+    "date": "2026-09-04",
+    "name": "Janmashtami",
+    "type": "General Holiday"
+  },
+  {
+    "date": "2026-10-20",
+    "name": "Durga Puja (Mahanabami)",
+    "type": "Government/Executive Holiday"
+  },
+  {
+    "date": "2026-10-21",
+    "name": "Durga Puja (Bijoya Dashami)",
+    "type": "General Holiday"
+  },
+  {
+    "date": "2026-12-16",
+    "name": "Victory Day",
+    "type": "General Holiday"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "General Holiday"
+  }
+]
