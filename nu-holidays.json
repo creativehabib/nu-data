@@ -123,5 +123,30 @@
     "date": "2026-12-25",
     "name": "Christmas Day",
     "type": "General Holiday"
+  },
+  {
+    "date": "2026-12-27",
+    "name": "শীতকালীন ছুটি",
+    "type": "University Holiday"
+  },
+  {
+    "date": "2026-12-28",
+    "name": "শীতকালীন ছুটি",
+    "type": "University Holiday"
+  },
+  {
+    "date": "2026-12-29",
+    "name": "শীতকালীন ছুটি",
+    "type": "University Holiday"
+  },
+  {
+    "date": "2026-30",
+    "name": "শীতকালীন ছুটি",
+    "type": "University Holiday"
+  },
+  {
+    "date": "2026-12-31",
+    "name": "শীতকালীন ছুটি",
+    "type": "University Holiday"
   }
 ]
