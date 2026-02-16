@@ -3877,18 +3877,8 @@
       "email": "khanraihan.1985@gmail.com",
       "home_district": "Dhaka"
     },
-     {
-      "id": "proctor-009",
-      "name": "Habibur Rahaman",
-      "designation": "Administrative Officer",
-      "department_name": "Proctor Office",
-      "blood_group": "O+",
-      "phone_number": "+8801914120688",
-      "email": "habibur.rahman2@nu.ac.bd",
-      "home_district": "Sherpur"
-    },
     {
-      "id": "proctor-010",
+      "id": "proctor-009",
       "name": "Md. Mamun Al Islam",
       "designation": "Administrative Officer",
       "department_name": "Proctor Office",
@@ -3896,6 +3886,16 @@
       "phone_number": "+8801729-640139",
       "email": "mamun.alislam@nu.ac.bd",
       "home_district": "Dhaka"
+    },
+    {
+      "id": "proctor-010",
+      "name": "Habibur Rahaman",
+      "designation": "Administrative Officer",
+      "department_name": "Proctor Office",
+      "blood_group": "O+",
+      "phone_number": "+8801914120688",
+      "email": "habibur.rahman2@nu.ac.bd",
+      "home_district": "Sherpur"
     },
     {
       "id": "proctor-008",
