@@ -60,6 +60,11 @@
     "type": "General Holiday"
   },
   {
+    "date": "2026-04-05",
+    "name": "ইন্টার সানডে",
+    "type": "University Holiday"
+  },
+  {
     "date": "2026-04-14",
     "name": "Bangla New Year (Pohela Boishakh)",
     "type": "Government/Executive Holiday"
@@ -68,6 +73,16 @@
     "date": "2026-05-01",
     "name": "May Day / Buddha Purnima",
     "type": "General Holiday"
+  },
+  {
+    "date": "2026-05-24",
+    "name": "ঈদ-উল-আযহা",
+    "type": "University Holiday"
+  },
+  {
+    "date": "2026-05-25",
+    "name": "ঈদ-উল-আযহা",
+    "type": "University Holiday"
   },
   {
     "date": "2026-05-26",
@@ -140,14 +155,19 @@
     "type": "General Holiday"
   },
   {
+    "date": "2026-08-12",
+    "name": "আখেরি চাহার সোম্বা",
+    "type": "University Holiday"
+  },
+  {
     "date": "2026-08-26",
     "name": "Eid-e-Milad-un-Nabi",
     "type": "General Holiday"
   },
   {
-    "date": "2026-09-04",
+    "date": "2026-09-24",
     "name": "Janmashtami",
-    "type": "General Holiday"
+    "type": "University Holiday"
   },
   {
     "date": "2026-10-20",
@@ -158,6 +178,21 @@
     "date": "2026-10-21",
     "name": "Durga Puja (Bijoya Dashami)",
     "type": "General Holiday"
+  },
+  {
+    "date": "2026-10-25",
+    "name": "শ্রী শ্রী লক্ষ্মী পূজা",
+    "type": "University Holiday"
+  },
+   {
+    "date": "2026-11-08",
+    "name": "শ্রী শ্রী শ্যামা পূজা",
+    "type": "University Holiday"
+  },
+  {
+    "date": "2026-12-14",
+    "name": "শহীদ বুদ্ধিজীবী দিবস",
+    "type": "University Holiday"
   },
   {
     "date": "2026-12-16",
